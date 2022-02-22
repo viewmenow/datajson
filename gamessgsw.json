@@ -1,0 +1,878 @@
+{"games":[
+    {
+        "gameCode": "C-SD01",
+        "gameName": "Sedie",
+        "thumbnail": "/thumbnail/C-SD01.jpg",
+        "screenshot": "/screenshoot/C-SD01.jpg"
+    },
+    {
+        "gameCode": "S-VB01",
+        "gameName": "Sexy Vegas",
+        "thumbnail": "/thumbnail/S-VB01.jpg",
+        "screenshot": "/screenshoot/S-VB01.jpg"
+    },
+    {
+        "gameCode": "S-FS02",
+        "gameName": "Fiery Sevens Exclusive",
+        "thumbnail": "/thumbnail/S-FS02.jpg",
+        "screenshot": "/screenshoot/S-FS02.jpg"
+    },
+    {
+        "gameCode": "S-LK02",
+        "gameName": "Lucky Koi Exclusive",
+        "thumbnail": "/thumbnail/S-LK02.jpg",
+        "screenshot": "/screenshoot/S-LK02.jpg"
+    },
+    {
+        "gameCode": "S-JT03",
+        "gameName": "Jokers Treasure Exclusive",
+        "thumbnail": "/thumbnail/S-JT03.jpg",
+        "screenshot": "/screenshoot/S-JT03.jpg"
+    },
+    {
+        "gameCode": "S-RM01",
+        "gameName": "Roma",
+        "thumbnail": "/thumbnail/S-RM01.jpg",
+        "screenshot": "/screenshoot/S-RM01.jpg"
+    },
+    {
+        "gameCode": "S-GR01",
+        "gameName": "Gold Rush Cowboys",
+        "thumbnail": "/thumbnail/S-GR01.jpg",
+        "screenshot": "/screenshoot/S-GR01.jpg"
+    },
+    {
+        "gameCode": "S-WW02",
+        "gameName": "Wild Wet Win",
+        "thumbnail": "/thumbnail/S-WW02.jpg",
+        "screenshot": "/screenshoot/S-WW02.jpg"
+    },
+    {
+        "gameCode": "S-RK02",
+        "gameName": "Royal Katt",
+        "thumbnail": "/thumbnail/S-RK02.jpg",
+        "screenshot": "/screenshoot/S-RK02.jpg"
+    },
+    {
+        "gameCode": "S-RC01",
+        "gameName": "Rich Cai Shen",
+        "thumbnail": "/thumbnail/S-RC01.jpg",
+        "screenshot": "/screenshoot/S-RC01.jpg"
+    },
+    {
+        "gameCode": "S-MT01",
+        "gameName": "Muay Thai Fighter",
+        "thumbnail": "/thumbnail/S-MT01.jpg",
+        "screenshot": "/screenshoot/S-MT01.jpg"
+    },
+    {
+        "gameCode": "S-PW03",
+        "gameName": "Poker Ways",
+        "thumbnail": "/thumbnail/S-PW03.jpg",
+        "screenshot": "/screenshoot/S-PW03.jpg"
+    },
+    {
+        "gameCode": "S-GK01",
+        "gameName": "Brothers Kingdom",
+        "thumbnail": "/thumbnail/S-GK01.jpg",
+        "screenshot": "/screenshoot/S-GK01.jpg"
+    },
+    {
+        "gameCode": "F-SF01",
+        "gameName": "Fishing God",
+        "thumbnail": "/thumbnail/F-SF01.jpg",
+        "screenshot": "/screenshoot/F-SF01.jpg"
+    },
+    {
+        "gameCode": "S-LK01",
+        "gameName": "Lucky Koi",
+        "thumbnail": "/thumbnail/S-LK01.jpg",
+        "screenshot": "/screenshoot/S-LK01.jpg"
+    },
+    {
+        "gameCode": "S-FD01",
+        "gameName": "5 Fortune Dragons",
+        "thumbnail": "/thumbnail/S-FD01.jpg",
+        "screenshot": "/screenshoot/S-FD01.jpg"
+    },
+    {
+        "gameCode": "S-DF02",
+        "gameName": "Dancing Fever",
+        "thumbnail": "/thumbnail/S-DF02.jpg",
+        "screenshot": "/screenshoot/S-DF02.jpg"
+    },
+    {
+        "gameCode": "S-GL02",
+        "gameName": "Golden Lotus SE",
+        "thumbnail": "/thumbnail/S-GL02.jpg",
+        "screenshot": "/screenshoot/S-GL02.jpg"
+    },
+    {
+        "gameCode": "F-SF02",
+        "gameName": "Fishing War",
+        "thumbnail": "/thumbnail/F-SF02.jpg",
+        "screenshot": "/screenshoot/F-SF02.jpg"
+    },
+    {
+        "gameCode": "S-ZE01",
+        "gameName": "ZEUS",
+        "thumbnail": "/thumbnail/S-ZE01.jpg",
+        "screenshot": "/screenshoot/S-ZE01.jpg"
+    },
+    {
+        "gameCode": "S-FS01",
+        "gameName": "Fiery Sevens",
+        "thumbnail": "/thumbnail/S-FS01.jpg",
+        "screenshot": "/screenshoot/S-FS01.jpg"
+    },
+    {
+        "gameCode": "S-BA01",
+        "gameName": "888",
+        "thumbnail": "/thumbnail/S-BA01.jpg",
+        "screenshot": "/screenshoot/S-BA01.jpg"
+    },
+    {
+        "gameCode": "S-PW02",
+        "gameName": "Princess Wang",
+        "thumbnail": "/thumbnail/S-PW02.jpg",
+        "screenshot": "/screenshoot/S-PW02.jpg"
+    },
+    {
+        "gameCode": "S-GP01",
+        "gameName": "Gold Panther",
+        "thumbnail": "/thumbnail/S-GP01.jpg",
+        "screenshot": "/screenshoot/S-GP01.jpg"
+    },
+    {
+        "gameCode": "S-JT02",
+        "gameName": "Jokers Treasure",
+        "thumbnail": "/thumbnail/S-JT02.jpg",
+        "screenshot": "/screenshoot/S-JT02.jpg"
+    },
+    {
+        "gameCode": "S-CS01",
+        "gameName": "Cai Shen 888",
+        "thumbnail": "/thumbnail/S-CS01.jpg",
+        "screenshot": "/screenshoot/S-CS01.jpg"
+    },
+    {
+        "gameCode": "S-FL02",
+        "gameName": "First Love",
+        "thumbnail": "/thumbnail/S-FL02.jpg",
+        "screenshot": "/screenshoot/S-FL02.jpg"
+    },
+    {
+        "gameCode": "S-MG02",
+        "gameName": "Mayan Gems",
+        "thumbnail": "/thumbnail/S-MG02.jpg",
+        "screenshot": "/screenshoot/S-MG02.jpg"
+    },
+    {
+        "gameCode": "S-CB02",
+        "gameName": "Sugar Bonanza",
+        "thumbnail": "/thumbnail/S-CB02.jpg",
+        "screenshot": "/screenshoot/S-CB02.jpg"
+    },
+    {
+        "gameCode": "S-PH02",
+        "gameName": "King Pharaoh",
+        "thumbnail": "/thumbnail/S-PH02.jpg",
+        "screenshot": "/screenshoot/S-PH02.jpg"
+    },
+    {
+        "gameCode": "S-BM01",
+        "gameName": "Book of Myth",
+        "thumbnail": "/thumbnail/S-BM01.jpg",
+        "screenshot": "/screenshoot/S-BM01.jpg"
+    },
+    {
+        "gameCode": "S-MG01",
+        "gameName": "Mega 7",
+        "thumbnail": "/thumbnail/S-MG01.jpg",
+        "screenshot": "/screenshoot/S-MG01.jpg"
+    },
+    {
+        "gameCode": "S-MK01",
+        "gameName": "Magic Kitty",
+        "thumbnail": "/thumbnail/S-MK01.jpg",
+        "screenshot": "/screenshoot/S-MK01.jpg"
+    },
+    {
+        "gameCode": "S-FM02",
+        "gameName": "Golden Monkey",
+        "thumbnail": "/thumbnail/S-FM02.jpg",
+        "screenshot": "/screenshoot/S-FM02.jpg"
+    },
+    {
+        "gameCode": "S-DX01",
+        "gameName": "Da Fu Xiao Fu",
+        "thumbnail": "/thumbnail/S-DX01.jpg",
+        "screenshot": "/screenshoot/S-DX01.jpg"
+    },
+    {
+        "gameCode": "S-HQ01",
+        "gameName": "Hugon Quest",
+        "thumbnail": "/thumbnail/S-HQ01.jpg",
+        "screenshot": "/screenshoot/S-HQ01.jpg"
+    },
+    {
+        "gameCode": "S-FC03",
+        "gameName": "Big Prosperity SA",
+        "thumbnail": "/thumbnail/S-FC03.jpg",
+        "screenshot": "/screenshoot/S-FC03.jpg"
+    },
+    {
+        "gameCode": "S-MM01",
+        "gameName": "Money Mouse",
+        "thumbnail": "/thumbnail/S-MM01.jpg",
+        "screenshot": "/screenshoot/S-MM01.jpg"
+    },
+    {
+        "gameCode": "S-WP02",
+        "gameName": "Wow Prosperity",
+        "thumbnail": "/thumbnail/S-WP02.jpg",
+        "screenshot": "/screenshoot/S-WP02.jpg"
+    },
+    {
+        "gameCode": "F-ZP01",
+        "gameName": "Zombie Party",
+        "thumbnail": "/thumbnail/F-ZP01.jpg",
+        "screenshot": "/screenshoot/F-ZP01.jpg"
+    },
+    {
+        "gameCode": "F-AH01",
+        "gameName": "Alien Hunter",
+        "thumbnail": "/thumbnail/F-AH01.jpg",
+        "screenshot": "/screenshoot/F-AH01.jpg"
+    },
+    {
+        "gameCode": "S-LY01",
+        "gameName": "FaFaFa",
+        "thumbnail": "/thumbnail/S-LY01.jpg",
+        "screenshot": "/screenshoot/S-LY01.jpg"
+    },
+    {
+        "gameCode": "S-PG01",
+        "gameName": "Prosperity Gods",
+        "thumbnail": "/thumbnail/S-PG01.jpg",
+        "screenshot": "/screenshoot/S-PG01.jpg"
+    },
+    {
+        "gameCode": "S-CP02",
+        "gameName": "Candy Candy",
+        "thumbnail": "/thumbnail/S-CP02.jpg",
+        "screenshot": "/screenshoot/S-CP02.jpg"
+    },
+    {
+        "gameCode": "S-DG04",
+        "gameName": "Dragon Gold SA",
+        "thumbnail": "/thumbnail/S-DG04.jpg",
+        "screenshot": "/screenshoot/S-DG04.jpg"
+    },
+    {
+        "gameCode": "S-LY02",
+        "gameName": "FaFaFa2",
+        "thumbnail": "/thumbnail/S-LY02.jpg",
+        "screenshot": "/screenshoot/S-LY02.jpg"
+    },
+    {
+        "gameCode": "S-CB01",
+        "gameName": "Crazy Bomber",
+        "thumbnail": "/thumbnail/S-CB01.jpg",
+        "screenshot": "/screenshoot/S-CB01.jpg"
+    },
+    {
+        "gameCode": "S-DG03",
+        "gameName": "Dragon Gold",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-DG03.jpg",
+        "screenshot": "/screenshoot/S-DG03.jpg",
+        "jackpotCode": "Grand2",
+        "jackpotName": "Grand Jackpot"
+    },
+    {
+        "gameCode": "S-RW01",
+        "gameName": "Rise of Werewolves",
+        "thumbnail": "/thumbnail/S-RW01.jpg",
+        "screenshot": "/screenshoot/S-RW01.jpg"
+    },
+    {
+        "gameCode": "S-ML01",
+        "gameName": "Magical Lamp",
+        "thumbnail": "/thumbnail/S-ML01.jpg",
+        "screenshot": "/screenshoot/S-ML01.jpg"
+    },
+    {
+        "gameCode": "S-TP02",
+        "gameName": "Triple Panda",
+        "thumbnail": "/thumbnail/S-TP02.jpg",
+        "screenshot": "/screenshoot/S-TP02.jpg"
+    },
+    {
+        "gameCode": "S-CP01",
+        "gameName": "Candy Pop",
+        "thumbnail": "/thumbnail/S-CP01.jpg",
+        "screenshot": "/screenshoot/S-CP01.jpg"
+    },
+    {
+        "gameCode": "S-DF03",
+        "gameName": "Double Flame",
+        "thumbnail": "/thumbnail/S-DF03.jpg",
+        "screenshot": "/screenshoot/S-DF03.jpg"
+    },
+    {
+        "gameCode": "S-LM01",
+        "gameName": "Lucky Meow",
+        "thumbnail": "/thumbnail/S-LM01.jpg",
+        "screenshot": "/screenshoot/S-LM01.jpg"
+    },
+    {
+        "gameCode": "S-TW01",
+        "gameName": "Tiger Warrior",
+        "thumbnail": "/thumbnail/S-TW01.jpg",
+        "screenshot": "/screenshoot/S-TW01.jpg"
+    },
+    {
+        "gameCode": "S-TZ01",
+        "gameName": "Jungle King",
+        "thumbnail": "/thumbnail/S-TZ01.jpg",
+        "screenshot": "/screenshoot/S-TZ01.jpg"
+    },
+    {
+        "gameCode": "S-LS02",
+        "gameName": "Three Lucky Stars",
+        "thumbnail": "/thumbnail/S-LS02.jpg",
+        "screenshot": "/screenshoot/S-LS02.jpg"
+    },
+    {
+        "gameCode": "S-RH01",
+        "gameName": "Ruby Hood",
+        "thumbnail": "/thumbnail/S-RH01.jpg",
+        "screenshot": "/screenshoot/S-RH01.jpg"
+    },
+    {
+        "gameCode": "S-FC02",
+        "gameName": "Big Prosperity",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-FC02.jpg",
+        "screenshot": "/screenshoot/S-FC02.jpg",
+        "jackpotCode": "Grand2",
+        "jackpotName": "Grand Jackpot"
+    },
+    {
+        "gameCode": "S-DF01",
+        "gameName": "Double Fortunes",
+        "thumbnail": "/thumbnail/S-DF01.jpg",
+        "screenshot": "/screenshoot/S-DF01.jpg"
+    },
+    {
+        "gameCode": "S-CH01",
+        "gameName": "Mr Chu Tycoon",
+        "thumbnail": "/thumbnail/S-CH01.jpg",
+        "screenshot": "/screenshoot/S-CH01.jpg"
+    },
+    {
+        "gameCode": "S-CY01",
+        "gameName": "Cai Yuan Guang Jin",
+        "thumbnail": "/thumbnail/S-CY01.jpg",
+        "screenshot": "/screenshoot/S-CY01.jpg"
+    },
+    {
+        "gameCode": "S-LI03",
+        "gameName": "Love Idol",
+        "thumbnail": "/thumbnail/S-LI03.jpg",
+        "screenshot": "/screenshoot/S-LI03.jpg"
+    },
+    {
+        "gameCode": "S-KF01",
+        "gameName": "KungFu Dragon",
+        "thumbnail": "/thumbnail/S-KF01.jpg",
+        "screenshot": "/screenshoot/S-KF01.jpg"
+    },
+    {
+        "gameCode": "S-WM03",
+        "gameName": "5 Fortune SA",
+        "thumbnail": "/thumbnail/S-WM03.jpg",
+        "screenshot": "/screenshoot/S-WM03.jpg"
+    },
+    {
+        "gameCode": "S-BB01",
+        "gameName": "Festive Lion",
+        "thumbnail": "/thumbnail/S-BB01.jpg",
+        "screenshot": "/screenshoot/S-BB01.jpg"
+    },
+    {
+        "gameCode": "S-BC01",
+        "gameName": "Baby Cai Shen",
+        "thumbnail": "/thumbnail/S-BC01.jpg",
+        "screenshot": "/screenshoot/S-BC01.jpg"
+    },
+    {
+        "gameCode": "S-HE01",
+        "gameName": "Heroes",
+        "thumbnail": "/thumbnail/S-HE01.jpg",
+        "screenshot": "/screenshoot/S-HE01.jpg"
+    },
+    {
+        "gameCode": "S-FO01",
+        "gameName": "168 Fortunes",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-FO01.jpg",
+        "screenshot": "/screenshoot/S-FO01.jpg",
+        "jackpotCode": "FUFU",
+        "jackpotName": "FuFu Jackpot"
+    },
+    {
+        "gameCode": "S-NT01",
+        "gameName": "Sea Emperor",
+        "thumbnail": "/thumbnail/S-NT01.jpg",
+        "screenshot": "/screenshoot/S-NT01.jpg"
+    },
+    {
+        "gameCode": "S-LF01",
+        "gameName": "Lucky Feng Shui",
+        "thumbnail": "/thumbnail/S-LF01.jpg",
+        "screenshot": "/screenshoot/S-LF01.jpg"
+    },
+    {
+        "gameCode": "S-MR01",
+        "gameName": "Mermaid",
+        "thumbnail": "/thumbnail/S-MR01.jpg",
+        "screenshot": "/screenshoot/S-MR01.jpg"
+    },
+    {
+        "gameCode": "S-WM02",
+        "gameName": "5 Fortune",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-WM02.jpg",
+        "screenshot": "/screenshoot/S-WM02.jpg",
+        "jackpotCode": "Grand2",
+        "jackpotName": "Grand Jackpot"
+    },
+    {
+        "gameCode": "S-SB01",
+        "gameName": "Sweet Bakery",
+        "thumbnail": "/thumbnail/S-SB01.jpg",
+        "screenshot": "/screenshoot/S-SB01.jpg"
+    },
+    {
+        "gameCode": "S-HY01",
+        "gameName": "Ho Yeah Monkey",
+        "thumbnail": "/thumbnail/S-HY01.jpg",
+        "screenshot": "/screenshoot/S-HY01.jpg"
+    },
+    {
+        "gameCode": "S-PO01",
+        "gameName": "Pocket Mon Go",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-PO01.jpg",
+        "screenshot": "/screenshoot/S-PO01.jpg",
+        "jackpotCode": "FUFU",
+        "jackpotName": "FuFu Jackpot"
+    },
+    {
+        "gameCode": "S-GC03",
+        "gameName": "Golden Chicken",
+        "thumbnail": "/thumbnail/S-GC03.jpg",
+        "screenshot": "/screenshoot/S-GC03.jpg"
+    },
+    {
+        "gameCode": "S-WC02",
+        "gameName": "Wong Choy",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-WC02.jpg",
+        "screenshot": "/screenshoot/S-WC02.jpg",
+        "jackpotCode": "Grand2",
+        "jackpotName": "Grand Jackpot"
+    },
+    {
+        "gameCode": "S-GW01",
+        "gameName": "Golden Whale",
+        "thumbnail": "/thumbnail/S-GW01.jpg",
+        "screenshot": "/screenshoot/S-GW01.jpg"
+    },
+    {
+        "gameCode": "S-WP01",
+        "gameName": "Wong Po",
+        "thumbnail": "/thumbnail/S-WP01.jpg",
+        "screenshot": "/screenshoot/S-WP01.jpg"
+    },
+    {
+        "gameCode": "S-SG02",
+        "gameName": "Santa Gifts",
+        "thumbnail": "/thumbnail/S-SG02.jpg",
+        "screenshot": "/screenshoot/S-SG02.jpg"
+    },
+    {
+        "gameCode": "S-GS04",
+        "gameName": "Great Stars SA",
+        "thumbnail": "/thumbnail/S-GS04.jpg",
+        "screenshot": "/screenshoot/S-GS04.jpg"
+    },
+    {
+        "gameCode": "S-WC03",
+        "gameName": "Wong Choy SA",
+        "thumbnail": "/thumbnail/S-WC03.jpg",
+        "screenshot": "/screenshoot/S-WC03.jpg"
+    },
+    {
+        "gameCode": "S-IL03",
+        "gameName": "Iceland SA",
+        "thumbnail": "/thumbnail/S-IL03.jpg",
+        "screenshot": "/screenshoot/S-IL03.jpg"
+    },
+    {
+        "gameCode": "S-EG02",
+        "gameName": "Emperor Gate",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-EG02.jpg",
+        "screenshot": "/screenshoot/S-EG02.jpg",
+        "jackpotCode": "War2",
+        "jackpotName": "Crystal Jackpot"
+    },
+    {
+        "gameCode": "S-EG03",
+        "gameName": "Emperor Gate SA",
+        "thumbnail": "/thumbnail/S-EG03.jpg",
+        "screenshot": "/screenshoot/S-EG03.jpg"
+    },
+    {
+        "gameCode": "S-GS03",
+        "gameName": "Great Stars",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-GS03.jpg",
+        "screenshot": "/screenshoot/S-GS03.jpg",
+        "jackpotCode": "Grand2",
+        "jackpotName": "Grand Jackpot"
+    },
+    {
+        "gameCode": "S-LS01",
+        "gameName": "Lucky Strike",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-LS01.jpg",
+        "screenshot": "/screenshoot/S-LS01.jpg",
+        "jackpotCode": "Lucky",
+        "jackpotName": "Lucky Jackpot"
+    },
+    {
+        "gameCode": "S-PK01",
+        "gameName": "Pirate King",
+        "thumbnail": "/thumbnail/S-PK01.jpg",
+        "screenshot": "/screenshoot/S-PK01.jpg"
+    },
+    {
+        "gameCode": "S-MF01",
+        "gameName": "Moodie Foodie",
+        "thumbnail": "/thumbnail/S-MF01.jpg",
+        "screenshot": "/screenshoot/S-MF01.jpg"
+    },
+    {
+        "gameCode": "S-LC01",
+        "gameName": "Lucky Cai Shen",
+        "thumbnail": "/thumbnail/S-LC01.jpg",
+        "screenshot": "/screenshoot/S-LC01.jpg"
+    },
+    {
+        "gameCode": "S-AL01",
+        "gameName": "Alibaba",
+        "thumbnail": "/thumbnail/S-AL01.jpg",
+        "screenshot": "/screenshoot/S-AL01.jpg"
+    },
+    {
+        "gameCode": "S-SA02",
+        "gameName": "Spins Stone",
+        "thumbnail": "/thumbnail/S-SA02.jpg",
+        "screenshot": "/screenshoot/S-SA02.jpg"
+    },
+    {
+        "gameCode": "S-AT02",
+        "gameName": "Amazing Thailand",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-AT02.jpg",
+        "screenshot": "/screenshoot/S-AT02.jpg",
+        "jackpotCode": "WorldWonderNew",
+        "jackpotName": "World Wonder Jackpot"
+    },
+    {
+        "gameCode": "S-IL02",
+        "gameName": "Adventure Iceland",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-IL02.jpg",
+        "screenshot": "/screenshoot/S-IL02.jpg",
+        "jackpotCode": "ADV",
+        "jackpotName": "Adventure Jackpot"
+    },
+    {
+        "gameCode": "S-FG01",
+        "gameName": "Fist of Gold",
+        "thumbnail": "/thumbnail/S-FG01.jpg",
+        "screenshot": "/screenshoot/S-FG01.jpg"
+    },
+    {
+        "gameCode": "S-SH01",
+        "gameName": "ShangHai 008",
+        "thumbnail": "/thumbnail/S-SH01.jpg",
+        "screenshot": "/screenshoot/S-SH01.jpg"
+    },
+    {
+        "gameCode": "S-PP01",
+        "gameName": "Pan Fairy",
+        "thumbnail": "/thumbnail/S-PP01.jpg",
+        "screenshot": "/screenshoot/S-PP01.jpg"
+    },
+    {
+        "gameCode": "S-GO01",
+        "gameName": "God's Kitchen",
+        "thumbnail": "/thumbnail/S-GO01.jpg",
+        "screenshot": "/screenshoot/S-GO01.jpg"
+    },
+    {
+        "gameCode": "S-GA01",
+        "gameName": "Gangster Axe",
+        "thumbnail": "/thumbnail/S-GA01.jpg",
+        "screenshot": "/screenshoot/S-GA01.jpg"
+    },
+    {
+        "gameCode": "S-HF01",
+        "gameName": "Highway Fortune",
+        "thumbnail": "/thumbnail/S-HF01.jpg",
+        "screenshot": "/screenshoot/S-HF01.jpg"
+    },
+    {
+        "gameCode": "S-CC01",
+        "gameName": "Master Chef",
+        "thumbnail": "/thumbnail/S-CC01.jpg",
+        "screenshot": "/screenshoot/S-CC01.jpg"
+    },
+    {
+        "gameCode": "S-GF01",
+        "gameName": "Golden Fist",
+        "thumbnail": "/thumbnail/S-GF01.jpg",
+        "screenshot": "/screenshoot/S-GF01.jpg"
+    },
+    {
+        "gameCode": "S-RK01",
+        "gameName": "Railway King",
+        "jackpot": true,
+        "thumbnail": "/thumbnail/S-RK01.jpg",
+        "screenshot": "/screenshoot/S-RK01.jpg",
+        "jackpotCode": "GolfPirateWay",
+        "jackpotName": "Luxury Jackpot"
+    },
+    {
+        "gameCode": "A-HH01",
+        "gameName": "Happy Hop",
+        "thumbnail": "/thumbnail/A-HH01.jpg",
+        "screenshot": "/screenshoot/A-HH01.jpg"
+    },
+    {
+        "gameCode": "S-HH01",
+        "gameName": "Honey Hunter",
+        "thumbnail": "/thumbnail/S-HH01.jpg",
+        "screenshot": "/screenshoot/S-HH01.jpg"
+    },
+    {
+        "gameCode": "S-CM01",
+        "gameName": "Drunken Jungle",
+        "thumbnail": "/thumbnail/S-CM01.jpg",
+        "screenshot": "/screenshoot/S-CM01.jpg"
+    },
+    {
+        "gameCode": "S-DV01",
+        "gameName": "Daddy Vacation",
+        "thumbnail": "/thumbnail/S-DV01.jpg",
+        "screenshot": "/screenshoot/S-DV01.jpg"
+    },
+    {
+        "gameCode": "S-GP02",
+        "gameName": "Golf Champions",
+        "thumbnail": "/thumbnail/S-GP02.jpg",
+        "screenshot": "/screenshoot/S-GP02.jpg"
+    },
+    {
+        "gameCode": "C-SB01",
+        "gameName": "Sic Bo",
+        "thumbnail": "/thumbnail/C-SB01.jpg",
+        "screenshot": "/screenshoot/C-SB01.jpg"
+    },
+    {
+        "gameCode": "A-PF02",
+        "gameName": "PinBall Fortune",
+        "thumbnail": "/thumbnail/A-PF02.jpg",
+        "screenshot": "/screenshoot/A-PF02.jpg"
+    },
+    {
+        "gameCode": "C-TF02",
+        "gameName": "Thai Fish Prawn Crab",
+        "thumbnail": "/thumbnail/C-TF02.jpg",
+        "screenshot": "/screenshoot/C-TF02.jpg"
+    },
+    {
+        "gameCode": "A-SC02",
+        "gameName": "Dragon Clan",
+        "thumbnail": "/thumbnail/A-SC02.jpg",
+        "screenshot": "/screenshoot/A-SC02.jpg"
+    },
+    {
+        "gameCode": "C-TF01",
+        "gameName": "Three Face Cards",
+        "thumbnail": "/thumbnail/C-TF01.jpg",
+        "screenshot": "/screenshoot/C-TF01.jpg"
+    },
+    {
+        "gameCode": "A-LB02",
+        "gameName": "Lucky Baby",
+        "thumbnail": "/thumbnail/A-LB02.jpg",
+        "screenshot": "/screenshoot/A-LB02.jpg"
+    },
+    {
+        "gameCode": "C-TH01",
+        "gameName": "Thai Hi Lo",
+        "thumbnail": "/thumbnail/C-TH01.jpg",
+        "screenshot": "/screenshoot/C-TH01.jpg"
+    },
+    {
+        "gameCode": "C-TF03",
+        "gameName": "Fish Prawn Crab 2",
+        "thumbnail": "/thumbnail/C-TF03.jpg",
+        "screenshot": "/screenshoot/C-TF03.jpg"
+    },
+    {
+        "gameCode": "C-DT01",
+        "gameName": "Dragon Tiger",
+        "thumbnail": "/thumbnail/C-DT01.jpg",
+        "screenshot": "/screenshoot/C-DT01.jpg"
+    },
+    {
+        "gameCode": "C-BK01",
+        "gameName": "Belangkai",
+        "thumbnail": "/thumbnail/C-BK01.jpg",
+        "screenshot": "/screenshoot/C-BK01.jpg"
+    },
+    {
+        "gameCode": "C-TE01",
+        "gameName": "28 Bars",
+        "thumbnail": "/thumbnail/C-TE01.jpg",
+        "screenshot": "/screenshoot/C-TE01.jpg"
+    },
+    {
+        "gameCode": "A-GL02",
+        "gameName": "Goblin Treasure",
+        "thumbnail": "/thumbnail/A-GL02.jpg",
+        "screenshot": "/screenshoot/A-GL02.jpg"
+    },
+    {
+        "gameCode": "C-BB01",
+        "gameName": "Banker Bull",
+        "thumbnail": "/thumbnail/C-BB01.jpg",
+        "screenshot": "/screenshoot/C-BB01.jpg"
+    },
+    {
+        "gameCode": "C-PD01",
+        "gameName": "Pok Deng",
+        "thumbnail": "/thumbnail/C-PD01.jpg",
+        "screenshot": "/screenshoot/C-PD01.jpg"
+    },
+    {
+        "gameCode": "A-GJ01",
+        "gameName": "Golden Journey",
+        "thumbnail": "/thumbnail/A-GJ01.jpg",
+        "screenshot": "/screenshoot/A-GJ01.jpg"
+    },
+    {
+        "gameCode": "C-BF01",
+        "gameName": "Bull Fighting",
+        "thumbnail": "/thumbnail/C-BF01.jpg",
+        "screenshot": "/screenshoot/C-BF01.jpg"
+    },
+    {
+        "gameCode": "A-SH02",
+        "gameName": "Shinobi Hamster",
+        "thumbnail": "/thumbnail/A-SH02.jpg",
+        "screenshot": "/screenshoot/A-SH02.jpg"
+    },
+    {
+        "gameCode": "A-AP02",
+        "gameName": "Animal Paradise",
+        "thumbnail": "/thumbnail/A-AP02.jpg",
+        "screenshot": "/screenshoot/A-AP02.jpg"
+    },
+    {
+        "gameCode": "S-RH02",
+        "gameName": "Royale House",
+        "thumbnail": "/thumbnail/S-RH02.jpg",
+        "screenshot": "/screenshoot/S-RH02.jpg"
+    },
+    {
+        "gameCode": "S-TD01",
+        "gameName": "Tiger Dance",
+        "thumbnail": "/thumbnail/S-TD01.jpg",
+        "screenshot": "/screenshoot/S-TD01.jpg"
+    },
+    {
+        "gameCode": "C-WT01",
+        "gameName": "Win Three Cards",
+        "thumbnail": "/thumbnail/C-WT01.jpg",
+        "screenshot": "/screenshoot/C-WT01.jpg"
+    },
+    {
+        "gameCode": "A-JW02",
+        "gameName": "Magic Journey",
+        "thumbnail": "/thumbnail/A-JW02.jpg",
+        "screenshot": "/screenshoot/A-JW02.jpg"
+    },
+    {
+        "gameCode": "A-RB01",
+        "gameName": "Rob Stars",
+        "thumbnail": "/thumbnail/A-RB01.jpg",
+        "screenshot": "/screenshoot/A-RB01.jpg"
+    },
+    {
+        "gameCode": "A-DN02",
+        "gameName": "Derby Night",
+        "thumbnail": "/thumbnail/A-DN02.jpg",
+        "screenshot": "/screenshoot/A-DN02.jpg"
+    },
+    {
+        "gameCode": "A-DE02",
+        "gameName": "Derby Express",
+        "thumbnail": "/thumbnail/A-DE02.jpg",
+        "screenshot": "/screenshoot/A-DE02.jpg"
+    },
+    {
+        "gameCode": "C-PP01",
+        "gameName": "Pineapple Poker",
+        "thumbnail": "/thumbnail/C-PP01.jpg",
+        "screenshot": "/screenshoot/C-PP01.jpg"
+    },
+    {
+        "gameCode": "A-DD02",
+        "gameName": "Dog Racing",
+        "thumbnail": "/thumbnail/A-DD02.jpg",
+        "screenshot": "/screenshoot/A-DD02.jpg"
+    },
+    {
+        "gameCode": "A-DB04",
+        "gameName": "Bicycle Race",
+        "thumbnail": "/thumbnail/A-DB04.jpg",
+        "screenshot": "/screenshoot/A-DB04.jpg"
+    },
+    {
+        "gameCode": "A-DB05",
+        "gameName": "Dirt Bike",
+        "thumbnail": "/thumbnail/A-DB05.jpg",
+        "screenshot": "/screenshoot/A-DB05.jpg"
+    },
+    {
+        "gameCode": "A-DB06",
+        "gameName": "Dragon Boat",
+        "thumbnail": "/thumbnail/A-DB06.jpg",
+        "screenshot": "/screenshoot/A-DB06.jpg"
+    },
+    {
+        "gameCode": "A-MT02",
+        "gameName": "Monkey Thunderbolt",
+        "thumbnail": "/thumbnail/A-MT02.jpg",
+        "screenshot": "/screenshoot/A-MT02.jpg"
+    }
+]}

@@ -1,0 +1,2641 @@
+{
+    "games": [
+        {
+            "gameCode": "vs20olympgate",
+            "gameName": "Gates of Olympus",
+            "gameAlias": "Gates of Olympus",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20olympgate.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20olympgate&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25tigeryear",
+            "gameName": "Lucky New Year - Tiger Treasures",
+            "gameAlias": "Lucky New Year - Tiger Treasures",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25tigeryear.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25tigeryear&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20doghouse",
+            "gameName": "The Dog House",
+            "gameAlias": "The Dog House",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20doghouse.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20doghouse&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20fruitsw",
+            "gameName": "Sweet Bonanza",
+            "gameAlias": "Sweet Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20fruitsw.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20fruitsw&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysdogs",
+            "gameName": "The Dog House Megaways",
+            "gameAlias": "The Dog House Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysdogs.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysdogs&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20sbxmas",
+            "gameName": "Sweet Bonanza Xmas",
+            "gameAlias": "Sweet Bonanza Xmas",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20sbxmas.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20sbxmas&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243lionsgold",
+            "gameName": "5 Lions Gold",
+            "gameAlias": "5 Lions Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243lionsgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243lionsgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5aztecgems",
+            "gameName": "Aztec Gems",
+            "gameAlias": "Aztec Gems",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5aztecgems.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5aztecgems&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20starlight",
+            "gameName": "Starlight Princess",
+            "gameAlias": "Starlight Princess",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20starlight.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20starlight&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25pandagold",
+            "gameName": "Panda's Fortune",
+            "gameAlias": "Panda's Fortune",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25pandagold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25pandagold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40wildwest",
+            "gameName": "Wild West Gold",
+            "gameAlias": "Wild West Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40wildwest.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40wildwest&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysrhino",
+            "gameName": "Great Rhino Megaways",
+            "gameAlias": "Great Rhino Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysrhino.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysrhino&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20bonzgold",
+            "gameName": "Bonanza Gold",
+            "gameAlias": "Bonanza Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20bonzgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20bonzgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20pbonanza",
+            "gameName": "Pyramid Bonanza",
+            "gameAlias": "Pyramid Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20pbonanza.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20pbonanza&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20tweethouse",
+            "gameName": "The Tweety House",
+            "gameAlias": "The Tweety House",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20tweethouse.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20tweethouse&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20hburnhs",
+            "gameName": "Hot to Burn Hold and Spin",
+            "gameAlias": "Hot to Burn Hold and Spin",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20hburnhs.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20hburnhs&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243caishien",
+            "gameName": "Caishen's Cash",
+            "gameAlias": "Caishen's Cash",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243caishien.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243caishien&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5joker",
+            "gameName": "Joker's Jewels",
+            "gameAlias": "Joker's Jewels",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5joker.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5joker&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs88hockattack",
+            "gameName": "Hockey Attack",
+            "gameAlias": "Hockey Attack",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs88hockattack.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs88hockattack&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10firestrike",
+            "gameName": "Fire Strike",
+            "gameAlias": "Fire Strike",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10firestrike.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10firestrike&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25pandatemple",
+            "gameName": "Panda Fortune 2",
+            "gameAlias": "Panda Fortune 2",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25pandatemple.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25pandatemple&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs4096bufking",
+            "gameName": "Buffalo King",
+            "gameAlias": "Buffalo King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs4096bufking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs4096bufking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1dragon8",
+            "gameName": "888 Dragons",
+            "gameAlias": "888 Dragons",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1dragon8.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1dragon8&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayslions",
+            "gameName": "5 Lions Megaways",
+            "gameAlias": "5 Lions Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayslions.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayslions&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20candvil",
+            "gameName": "Candy Village",
+            "gameAlias": "Candy Village",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20candvil.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20candvil&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9aztecgemsdx",
+            "gameName": "Aztec Gems Deluxe",
+            "gameAlias": "Aztec Gems Deluxe",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9aztecgemsdx.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9aztecgemsdx&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25hotfiesta",
+            "gameName": "Hot Fiesta",
+            "gameAlias": "Hot Fiesta",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25hotfiesta.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25hotfiesta&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5ultra",
+            "gameName": "Ultra Hold and Spin",
+            "gameAlias": "Ultra Hold and Spin",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5ultra.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5ultra&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs12bbb",
+            "gameName": "Bigger Bass Bonanza",
+            "gameAlias": "Bigger Bass Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs12bbb.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs12bbb&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysbufking",
+            "gameName": "Buffalo King Megaways",
+            "gameAlias": "Buffalo King Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysbufking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysbufking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10fruity2",
+            "gameName": "Extra Juicy",
+            "gameAlias": "Extra Juicy",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10fruity2.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10fruity2&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20bermuda",
+            "gameName": "Bermuda Riches",
+            "gameAlias": "Bermuda Riches",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20bermuda.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20bermuda&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs15diamond",
+            "gameName": "Diamond Strike",
+            "gameAlias": "Diamond Strike",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs15diamond.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs15diamond&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20goldfever",
+            "gameName": "Gems Bonanza",
+            "gameAlias": "Gems Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20goldfever.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20goldfever&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20fruitparty",
+            "gameName": "Fruit Party",
+            "gameAlias": "Fruit Party",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20fruitparty.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20fruitparty&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10nudgeit",
+            "gameName": "Rise of Giza PowerNudge",
+            "gameAlias": "Rise of Giza PowerNudge",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10nudgeit.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10nudgeit&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20vegasmagic",
+            "gameName": "Vegas Magic",
+            "gameAlias": "Vegas Magic",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20vegasmagic.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20vegasmagic&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10amm",
+            "gameName": "Amazing Money Machine",
+            "gameAlias": "Amazing Money Machine",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10amm.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10amm&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayshammthor",
+            "gameName": "Power of Thor Megaways",
+            "gameAlias": "Power of Thor Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayshammthor.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayshammthor&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs7fire88",
+            "gameName": "Fire 88",
+            "gameAlias": "Fire 88",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs7fire88.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs7fire88&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayssamurai",
+            "gameName": "Rise of Samurai Megaways",
+            "gameAlias": "Rise of Samurai Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayssamurai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayssamurai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20phoenixf",
+            "gameName": "Phoenix Forge",
+            "gameAlias": "Phoenix Forge",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20phoenixf.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20phoenixf&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysaztecking",
+            "gameName": "Aztec King Megaways",
+            "gameAlias": "Aztec King Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysaztecking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysaztecking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25mustang",
+            "gameName": "Mustang Gold",
+            "gameAlias": "Mustang Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25mustang.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25mustang&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20chickdrop",
+            "gameName": "Chicken Drop",
+            "gameAlias": "Chicken Drop",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20chickdrop.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20chickdrop&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20terrorv",
+            "gameName": "Cash Elevator",
+            "gameAlias": "Cash Elevator",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20terrorv.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20terrorv&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayslight",
+            "gameName": "Lucky Lightning",
+            "gameAlias": "Lucky Lightning",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayslight.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayslight&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10bbbonanza",
+            "gameName": "Big Bass Bonanza",
+            "gameAlias": "Big Bass Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10bbbonanza.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10bbbonanza&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20trsbox",
+            "gameName": "Treasure Wild",
+            "gameAlias": "Treasure Wild",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20trsbox.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20trsbox&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20eightdragons",
+            "gameName": "8 Dragons",
+            "gameAlias": "8 Dragons",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20eightdragons.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20eightdragons&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20rhinoluxe",
+            "gameName": "Great Rhino Deluxe",
+            "gameAlias": "Great Rhino Deluxe",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20rhinoluxe.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20rhinoluxe&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25aztecking",
+            "gameName": "Aztec King",
+            "gameAlias": "Aztec King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25aztecking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25aztecking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs75empress",
+            "gameName": "Golden Beauty",
+            "gameAlias": "Golden Beauty",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs75empress.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs75empress&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20rhino",
+            "gameName": "Great Rhino",
+            "gameAlias": "Great Rhino",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20rhino.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20rhino&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10floatdrg",
+            "gameName": "Floating Dragon",
+            "gameAlias": "Floating Dragon",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10floatdrg.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10floatdrg&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10egyptcls",
+            "gameName": "Ancient Egypt Classic",
+            "gameAlias": "Ancient Egypt Classic",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10egyptcls.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10egyptcls&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20midas",
+            "gameName": "The Hand of Midas",
+            "gameAlias": "The Hand of Midas",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20midas.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20midas&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25rio",
+            "gameName": "Heart of Rio",
+            "gameAlias": "Heart of Rio",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25rio.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25rio&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1024lionsd",
+            "gameName": "5 Lions Dance",
+            "gameAlias": "5 Lions Dance",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1024lionsd.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1024lionsd&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20colcashzone",
+            "gameName": "Colossal Cash Zone",
+            "gameAlias": "Colossal Cash Zone",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20colcashzone.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20colcashzone&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayselements",
+            "gameName": "Elemental Gems Megaways",
+            "gameAlias": "Elemental Gems Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayselements.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayselements&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243empcaishen",
+            "gameName": "Emperor Caishen",
+            "gameAlias": "Emperor Caishen",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243empcaishen.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243empcaishen&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysxjuicy",
+            "gameName": "Extra Juicy Megaways",
+            "gameAlias": "Extra Juicy Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysxjuicy.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysxjuicy&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20amuleteg",
+            "gameName": "Fortune of Giza",
+            "gameAlias": "Fortune of Giza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20amuleteg.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20amuleteg&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10runes",
+            "gameName": "Gates of Valhalla",
+            "gameAlias": "Gates of Valhalla",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10runes.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10runes&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25goldparty",
+            "gameName": "Gold Party",
+            "gameAlias": "Gold Party",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25goldparty.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25goldparty&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs4096magician",
+            "gameName": "Magician's Secrets",
+            "gameAlias": "Magician's Secrets",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs4096magician.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs4096magician&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50mightra",
+            "gameName": "Might of Ra",
+            "gameAlias": "Might of Ra",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50mightra.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50mightra&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40pirate",
+            "gameName": "Pirate Gold",
+            "gameAlias": "Pirate Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40pirate.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40pirate&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243queenie",
+            "gameName": "Queenie",
+            "gameAlias": "Queenie",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243queenie.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243queenie&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20rainbowg",
+            "gameName": "Rainbow Gold",
+            "gameAlias": "Rainbow Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20rainbowg.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20rainbowg&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20rockvegas",
+            "gameName": "Rock Vegas",
+            "gameAlias": "Rock Vegas",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20rockvegas.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20rockvegas&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10snakeladd",
+            "gameName": "Snakes and Ladders Megadice",
+            "gameAlias": "Snakes and Ladders Megadice",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10snakeladd.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10snakeladd&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20ultim5",
+            "gameName": "The Ultimate 5",
+            "gameAlias": "The Ultimate 5",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20ultim5.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20ultim5&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10tictac",
+            "gameName": "Tic Tac Take",
+            "gameAlias": "Tic Tac Take",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10tictac.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10tictac&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20bchprty",
+            "gameName": "Wild Beach Party",
+            "gameAlias": "Wild Beach Party",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20bchprty.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20bchprty&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40wanderw",
+            "gameName": "Wild Depths",
+            "gameAlias": "Wild Depths",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40wanderw.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40wanderw&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs576treasures",
+            "gameName": "Wild Wild Riches",
+            "gameAlias": "Wild Wild Riches",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs576treasures.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs576treasures&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs75bronco",
+            "gameName": "Bronco Spirit",
+            "gameAlias": "Bronco Spirit",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs75bronco.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs75bronco&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1024temuj",
+            "gameName": "Temujin Treasures",
+            "gameAlias": "Temujin Treasures",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1024temuj.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1024temuj&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs432congocash",
+            "gameName": "Congo Cash",
+            "gameAlias": "Congo Cash",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs432congocash.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs432congocash&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25chilli",
+            "gameName": "Chilli Heat",
+            "gameAlias": "Chilli Heat",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25chilli.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25chilli&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243fortune",
+            "gameName": "Caishen's Gold",
+            "gameAlias": "Caishen's Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243fortune.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243fortune&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10cowgold",
+            "gameName": "Cowboys Gold",
+            "gameAlias": "Cowboys Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10cowgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10cowgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20fparty2",
+            "gameName": "Fruit Party 2",
+            "gameAlias": "Fruit Party 2",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20fparty2.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20fparty2&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25pyramid",
+            "gameName": "Pyramid King",
+            "gameAlias": "Pyramid King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25pyramid.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25pyramid&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1money",
+            "gameName": "Money Money Money",
+            "gameAlias": "Money Money Money",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1money.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1money&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysbankbonz",
+            "gameName": "Cash Bonanza",
+            "gameAlias": "Cash Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysbankbonz.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysbankbonz&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1fortunetree",
+            "gameName": "Tree of Riches",
+            "gameAlias": "Tree of Riches",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1fortunetree.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1fortunetree&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25gldox",
+            "gameName": "Golden Ox",
+            "gameAlias": "Golden Ox",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25gldox.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25gldox&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25goldpig",
+            "gameName": "Golden Pig",
+            "gameAlias": "Golden Pig",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25goldpig.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25goldpig&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20magicpot",
+            "gameName": "The Magic Cauldron",
+            "gameAlias": "The Magic Cauldron",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20magicpot.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20magicpot&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243lions",
+            "gameName": "5 Lions",
+            "gameAlias": "5 Lions",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243lions.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243lions&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25wildspells",
+            "gameName": "Wild Spells",
+            "gameAlias": "Wild Spells",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25wildspells.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25wildspells&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9piggybank",
+            "gameName": "Piggy Bank Bills",
+            "gameAlias": "Piggy Bank Bills",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9piggybank.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9piggybank&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25mmouse",
+            "gameName": "Money Mouse",
+            "gameAlias": "Money Mouse",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25mmouse.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25mmouse&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243chargebull",
+            "gameName": "Raging Bull",
+            "gameAlias": "Raging Bull",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243chargebull.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243chargebull&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243mwarrior",
+            "gameName": "Monkey Warrior",
+            "gameAlias": "Monkey Warrior",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243mwarrior.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243mwarrior&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "cs5triple8gold",
+            "gameName": "888 Gold",
+            "gameAlias": "888 Gold",
+            "gameType": "classicslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/cs5triple8gold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=cs5triple8gold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20kraken",
+            "gameName": "Release the Kraken",
+            "gameAlias": "Release the Kraken",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20kraken.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20kraken&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayschilheat",
+            "gameName": "Chilli Heat Megaways",
+            "gameAlias": "Chilli Heat Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayschilheat.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayschilheat&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1masterjoker",
+            "gameName": "Master Joker",
+            "gameAlias": "Master Joker",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1masterjoker.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1masterjoker&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25wolfgold",
+            "gameName": "Wolf Gold",
+            "gameAlias": "Wolf Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25wolfgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25wolfgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10bblpop",
+            "gameName": "Bubble Pop",
+            "gameAlias": "Bubble Pop",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10bblpop.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10bblpop&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayscryscav",
+            "gameName": "Crystal Caverns Megaways",
+            "gameAlias": "Crystal Caverns Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayscryscav.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayscryscav&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50juicyfr",
+            "gameName": "Juicy Fruits",
+            "gameAlias": "Juicy Fruits",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50juicyfr.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50juicyfr&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysyumyum",
+            "gameName": "Yum Yum Powerways",
+            "gameAlias": "Yum Yum Powerways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysyumyum.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysyumyum&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs576hokkwolf",
+            "gameName": "Hokkaido Wolf",
+            "gameAlias": "Hokkaido Wolf",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs576hokkwolf.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs576hokkwolf&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20daydead",
+            "gameName": "Day of Dead",
+            "gameAlias": "Day of Dead",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20daydead.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20daydead&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40spartaking",
+            "gameName": "Spartan King",
+            "gameAlias": "Spartan King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40spartaking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40spartaking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243fortseren",
+            "gameName": "Greek Gods",
+            "gameAlias": "Greek Gods",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243fortseren.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243fortseren&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10eyestorm",
+            "gameName": "Eye of the Storm",
+            "gameAlias": "Eye of the Storm",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10eyestorm.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10eyestorm&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1024dtiger",
+            "gameName": "The Dragon Tiger",
+            "gameAlias": "The Dragon Tiger",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1024dtiger.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1024dtiger&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25asgard",
+            "gameName": "Asgard",
+            "gameAlias": "Asgard",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25asgard.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25asgard&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20emptybank",
+            "gameName": "Empty the Bank",
+            "gameAlias": "Empty the Bank",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20emptybank.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20emptybank&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20wildboost",
+            "gameName": "Wild Booster",
+            "gameAlias": "Wild Booster",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20wildboost.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20wildboost&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5drhs",
+            "gameName": "Dragon Hot Hold & Spin",
+            "gameAlias": "Dragon Hot Hold & Spin",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5drhs.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5drhs&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10bookoftut",
+            "gameName": "Book of Tut",
+            "gameAlias": "Book of Tut",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10bookoftut.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10bookoftut&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10luckcharm",
+            "gameName": "Lucky, Grace & Charm",
+            "gameAlias": "Lucky, Grace & Charm",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10luckcharm.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10luckcharm&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1600drago",
+            "gameName": "Drago - Jewels of Fortune",
+            "gameAlias": "Drago - Jewels of Fortune",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1600drago.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1600drago&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayswest",
+            "gameName": "Mystic Chief",
+            "gameAlias": "Mystic Chief",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayswest.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayswest&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10goldfish",
+            "gameName": "Fishin Reels",
+            "gameAlias": "Fishin Reels",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10goldfish.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10goldfish&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10wildtut",
+            "gameName": "Mysterious Egypt",
+            "gameAlias": "Mysterious Egypt",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10wildtut.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10wildtut&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40pirgold",
+            "gameName": "Pirate Gold Deluxe",
+            "gameAlias": "Pirate Gold Deluxe",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40pirgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40pirgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25jokerking",
+            "gameName": "Joker King",
+            "gameAlias": "Joker King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25jokerking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25jokerking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayswerewolf",
+            "gameName": "Curse of the Werewolf Megaways",
+            "gameAlias": "Curse of the Werewolf Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayswerewolf.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayswerewolf&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10returndead",
+            "gameName": "Return of the Dead",
+            "gameAlias": "Return of the Dead",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10returndead.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10returndead&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25newyear",
+            "gameName": "Lucky New Year",
+            "gameAlias": "Lucky New Year",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25newyear.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25newyear&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1tigers",
+            "gameName": "Triple Tigers",
+            "gameAlias": "Triple Tigers",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1tigers.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1tigers&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243dancingpar",
+            "gameName": "Dance Party",
+            "gameAlias": "Dance Party",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243dancingpar.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243dancingpar&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswayshive",
+            "gameName": "Star Bounty",
+            "gameAlias": "Star Bounty",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswayshive.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswayshive&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25goldrush",
+            "gameName": "Gold Rush",
+            "gameAlias": "Gold Rush",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25goldrush.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25goldrush&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10mayangods",
+            "gameName": "John Hunter And The Mayan Gods",
+            "gameAlias": "John Hunter And The Mayan Gods",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10mayangods.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10mayangods&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40voodoo",
+            "gameName": "Voodoo Magic",
+            "gameAlias": "Voodoo Magic",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40voodoo.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40voodoo&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10threestar",
+            "gameName": "Three Star Fortune",
+            "gameAlias": "Three Star Fortune",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10threestar.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10threestar&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5super7",
+            "gameName": "Super 7s ",
+            "gameAlias": "Super 7s ",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5super7.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5super7&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20ekingrr",
+            "gameName": "Emerald King Rainbow Road",
+            "gameAlias": "Emerald King Rainbow Road",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20ekingrr.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20ekingrr&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25samurai",
+            "gameName": "Rise of Samurai",
+            "gameAlias": "Rise of Samurai",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25samurai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25samurai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50chinesecharms",
+            "gameName": "Lucky Dragons",
+            "gameAlias": "Lucky Dragons",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50chinesecharms.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50chinesecharms&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5spjoker",
+            "gameName": "Super Joker",
+            "gameAlias": "Super Joker",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5spjoker.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5spjoker&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1ball",
+            "gameName": "Lucky Dragon Ball",
+            "gameAlias": "Lucky Dragon Ball",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1ball.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1ball&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10madame",
+            "gameName": "Madame Destiny",
+            "gameAlias": "Madame Destiny",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10madame.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10madame&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25tigerwar",
+            "gameName": "The Tiger Warrior",
+            "gameAlias": "The Tiger Warrior",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25tigerwar.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25tigerwar&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5ultrab",
+            "gameName": "Ultra Burn",
+            "gameAlias": "Ultra Burn",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5ultrab.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5ultrab&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20hercpeg",
+            "gameName": "Hercules and Pegasus",
+            "gameAlias": "Hercules and Pegasus",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20hercpeg.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20hercpeg&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25vegas",
+            "gameName": "Vegas Nights",
+            "gameAlias": "Vegas Nights",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25vegas.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25vegas&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25peking",
+            "gameName": "Peking Luck",
+            "gameAlias": "Peking Luck",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25peking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25peking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1fufufu",
+            "gameName": "Fu Fu Fu",
+            "gameAlias": "Fu Fu Fu",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1fufufu.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1fufufu&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40madwheel",
+            "gameName": "The Wild Machine",
+            "gameAlias": "The Wild Machine",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40madwheel.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40madwheel&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs18mashang",
+            "gameName": "Treasure Horse",
+            "gameAlias": "Treasure Horse",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs18mashang.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs18mashang&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20honey",
+            "gameName": "Honey Honey Honey",
+            "gameAlias": "Honey Honey Honey",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20honey.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20honey&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5drmystery",
+            "gameName": "Dragon Kingdom - Eyes of Fire",
+            "gameAlias": "Dragon Kingdom - Eyes of Fire",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5drmystery.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5drmystery&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20santa",
+            "gameName": "Santa",
+            "gameAlias": "Santa",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20santa.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20santa&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25kingdoms",
+            "gameName": "3 Kingdoms - Battle of Red Cliffs",
+            "gameAlias": "3 Kingdoms - Battle of Red Cliffs",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25kingdoms.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25kingdoms&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25dragonkingdom",
+            "gameName": "Dragon Kingdom",
+            "gameAlias": "Dragon Kingdom",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25dragonkingdom.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25dragonkingdom&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs15fairytale",
+            "gameName": "Fairytale Fortune",
+            "gameAlias": "Fairytale Fortune",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs15fairytale.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs15fairytale&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5hotburn",
+            "gameName": "Hot to Burn",
+            "gameAlias": "Hot to Burn",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5hotburn.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5hotburn&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs117649starz",
+            "gameName": "Starz Megaways",
+            "gameAlias": "Starz Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs117649starz.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs117649starz&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50safariking",
+            "gameName": "Safari King",
+            "gameAlias": "Safari King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50safariking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50safariking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25walker",
+            "gameName": "Wild Walker",
+            "gameAlias": "Wild Walker",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25walker.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25walker&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20egypttrs",
+            "gameName": "Egyptian Fortunes",
+            "gameAlias": "Egyptian Fortunes",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20egypttrs.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20egypttrs&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25bkofkngdm",
+            "gameName": "Book Of Kingdoms",
+            "gameAlias": "Book Of Kingdoms",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25bkofkngdm.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25bkofkngdm&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9chen",
+            "gameName": "Master Chen's Fortune",
+            "gameAlias": "Master Chen's Fortune",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9chen.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9chen&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25gladiator",
+            "gameName": "Wild Gladiator",
+            "gameAlias": "Wild Gladiator",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25gladiator.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25gladiator&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25journey",
+            "gameName": "Journey to the West",
+            "gameAlias": "Journey to the West",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25journey.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25journey&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50pixie",
+            "gameName": "Pixie Wings",
+            "gameAlias": "Pixie Wings",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50pixie.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50pixie&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs4096mystery",
+            "gameName": "Mysterious",
+            "gameAlias": "Mysterious",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs4096mystery.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs4096mystery&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50aladdin",
+            "gameName": "3 Genie Wishes",
+            "gameAlias": "3 Genie Wishes",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50aladdin.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50aladdin&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40frrainbow",
+            "gameName": "Fruit Rainbow",
+            "gameAlias": "Fruit Rainbow",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40frrainbow.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40frrainbow&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20chicken",
+            "gameName": "The Great Chicken Escape",
+            "gameAlias": "The Great Chicken Escape",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20chicken.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20chicken&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs7776secrets",
+            "gameName": "Aztec Treasure",
+            "gameAlias": "Aztec Treasure",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs7776secrets.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs7776secrets&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20eking",
+            "gameName": "Emerald King",
+            "gameAlias": "Emerald King",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20eking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20eking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9hotroll",
+            "gameName": "Hot Chilli",
+            "gameAlias": "Hot Chilli",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9hotroll.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9hotroll&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9madmonkey",
+            "gameName": "Monkey Madness",
+            "gameAlias": "Monkey Madness",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9madmonkey.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9madmonkey&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs3train",
+            "gameName": "Gold Train",
+            "gameAlias": "Gold Train",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs3train.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs3train&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs7pigs",
+            "gameName": "7 Piggies",
+            "gameAlias": "7 Piggies",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs7pigs.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs7pigs&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5trdragons",
+            "gameName": "Triple Dragons",
+            "gameAlias": "Triple Dragons",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5trdragons.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5trdragons&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs8magicjourn",
+            "gameName": "Magic Journey",
+            "gameAlias": "Magic Journey",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs8magicjourn.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs8magicjourn&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25safari",
+            "gameName": "Hot Safari",
+            "gameAlias": "Hot Safari",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25safari.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25safari&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40beowulf",
+            "gameName": "Beowulf",
+            "gameAlias": "Beowulf",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40beowulf.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40beowulf&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20wildpix",
+            "gameName": "Wild Pixies",
+            "gameAlias": "Wild Pixies",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20wildpix.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20wildpix&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "cs3w",
+            "gameName": "Diamonds are Forever 3 Lines",
+            "gameAlias": "Diamonds are Forever 3 Lines",
+            "gameType": "classicslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/cs3w.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=cs3w&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25davinci",
+            "gameName": "Da Vinci's Treasure",
+            "gameAlias": "Da Vinci's Treasure",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25davinci.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25davinci&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10egypt",
+            "gameName": "Ancient Egypt",
+            "gameAlias": "Ancient Egypt",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10egypt.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10egypt&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50hercules",
+            "gameName": "Hercules Son of Zeus",
+            "gameAlias": "Hercules Son of Zeus",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50hercules.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50hercules&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25queenofgold",
+            "gameName": "Queen of Gold",
+            "gameAlias": "Queen of Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25queenofgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25queenofgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20bl",
+            "gameName": "Busy Bees",
+            "gameAlias": "Busy Bees",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20bl.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20bl&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs243crystalcave",
+            "gameName": "Magic Crystals",
+            "gameAlias": "Magic Crystals",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs243crystalcave.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs243crystalcave&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50kingkong",
+            "gameName": "Mighty Kong",
+            "gameAlias": "Mighty Kong",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50kingkong.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50kingkong&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "cs3irishcharms",
+            "gameName": "Irish Charms",
+            "gameAlias": "Irish Charms",
+            "gameType": "classicslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/cs3irishcharms.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=cs3irishcharms&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10vampwolf",
+            "gameName": "Vampires vs Wolves",
+            "gameAlias": "Vampires vs Wolves",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10vampwolf.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10vampwolf&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "cs5moneyroll",
+            "gameName": "Money Roll",
+            "gameAlias": "Money Roll",
+            "gameType": "classicslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/cs5moneyroll.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=cs5moneyroll&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1024butterfly",
+            "gameName": "Jade Butterfly",
+            "gameAlias": "Jade Butterfly",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1024butterfly.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1024butterfly&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40streetracer",
+            "gameName": "Street Racer",
+            "gameAlias": "Street Racer",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40streetracer.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40streetracer&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20leprechaun",
+            "gameName": "Leprechaun Song",
+            "gameAlias": "Leprechaun Song",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20leprechaun.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20leprechaun&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20godiva",
+            "gameName": "Lady Godiva",
+            "gameAlias": "Lady Godiva",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20godiva.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20godiva&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20gorilla",
+            "gameName": "Jungle Gorilla",
+            "gameAlias": "Jungle Gorilla",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20gorilla.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20gorilla&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs5trjokers",
+            "gameName": "Triple Jokers",
+            "gameAlias": "Triple Jokers",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs5trjokers.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs5trjokers&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20leprexmas",
+            "gameName": "Leprechaun Carol",
+            "gameAlias": "Leprechaun Carol",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20leprexmas.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20leprexmas&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20aladdinsorc",
+            "gameName": "Aladdin and the Sorcerer",
+            "gameAlias": "Aladdin and the Sorcerer",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20aladdinsorc.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20aladdinsorc&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs13g",
+            "gameName": "Devil's 13",
+            "gameAlias": "Devil's 13",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs13g.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs13g&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20cm",
+            "gameName": "Sugar Rush",
+            "gameAlias": "Sugar Rush",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20cm.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20cm&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25dwarves_new",
+            "gameName": "Dwarven Gold Deluxe",
+            "gameAlias": "Dwarven Gold Deluxe",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25dwarves_new.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25dwarves_new&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25sea",
+            "gameName": "Great Reef",
+            "gameAlias": "Great Reef",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25sea.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25sea&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs13ladyofmoon",
+            "gameName": "Lady of the Moon",
+            "gameAlias": "Lady of the Moon",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs13ladyofmoon.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs13ladyofmoon&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs4096jurassic",
+            "gameName": "Jurassic Giants",
+            "gameAlias": "Jurassic Giants",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs4096jurassic.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs4096jurassic&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs7monkeys",
+            "gameName": "7 Monkeys",
+            "gameAlias": "7 Monkeys",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs7monkeys.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs7monkeys&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs1024atlantis",
+            "gameName": "Queen of Atlantis",
+            "gameAlias": "Queen of Atlantis",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs1024atlantis.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs1024atlantis&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25champ",
+            "gameName": "The Champions",
+            "gameAlias": "The Champions",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25champ.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25champ&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25pantherqueen",
+            "gameName": "Panther Queen",
+            "gameAlias": "Panther Queen",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25pantherqueen.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25pantherqueen&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs50amt",
+            "gameName": "Aladdin's Treasure",
+            "gameAlias": "Aladdin's Treasure",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs50amt.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs50amt&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20egypt",
+            "gameName": "Tales of Egypt",
+            "gameAlias": "Tales of Egypt",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20egypt.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20egypt&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25dwarves",
+            "gameName": "Dwarven Gold",
+            "gameAlias": "Dwarven Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25dwarves.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25dwarves&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20rome",
+            "gameName": "Glorious Rome",
+            "gameAlias": "Glorious Rome",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20rome.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20rome&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "1101",
+            "gameName": "Live - Sweet Bonanza CandyLand",
+            "gameAlias": "Live - Sweet Bonanza CandyLand",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/1101.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "104",
+            "gameName": "Live - Lobby Baccarat",
+            "gameAlias": "Live - Lobby Baccarat",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/104.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "102",
+            "gameName": "Live - Lobby Roulette",
+            "gameAlias": "Live - Lobby Roulette",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/102.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "108",
+            "gameName": "Live - Dragon Tiger",
+            "gameAlias": "Live - Dragon Tiger",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/108.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "105",
+            "gameName": "Live - GAMESHOWS",
+            "gameAlias": "Live - GAMESHOWS",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/105.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "103",
+            "gameName": "Live - Lobby BJ",
+            "gameAlias": "Live - Lobby BJ",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/103.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "109",
+            "gameName": "Live - Sic Bo & Dragon Tiger",
+            "gameAlias": "Live - Sic Bo & Dragon Tiger",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/109.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "110",
+            "gameName": "Live - D&W",
+            "gameAlias": "Live - D&W",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/110.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "111",
+            "gameName": "Live - Other Promos",
+            "gameAlias": "Live - Other Promos",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/111.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "204",
+            "gameName": "Live - Mega Roulette",
+            "gameAlias": "Live - Mega Roulette",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/204.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "401",
+            "gameName": "Baccarat 1",
+            "gameAlias": "Baccarat 1",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/401.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "402",
+            "gameName": "Speed Baccarat 1",
+            "gameAlias": "Speed Baccarat 1",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/402.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "701",
+            "gameName": "Live - Mega Sic Bo",
+            "gameAlias": "Live - Mega Sic Bo",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/701.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "801",
+            "gameName": "Live - Mega Wheel",
+            "gameAlias": "Live - Mega Wheel",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/801.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "203",
+            "gameName": "Speed Roulette 1",
+            "gameAlias": "Speed Roulette 1",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/203.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "225",
+            "gameName": "Auto-Roulette 1",
+            "gameAlias": "Auto-Roulette 1",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/225.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "901",
+            "gameName": "Live - ONE Blackjack",
+            "gameAlias": "Live - ONE Blackjack",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/901.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "201",
+            "gameName": "Roulette 2",
+            "gameAlias": "Roulette 2",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/201.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "303",
+            "gameName": "Blackjack 14",
+            "gameAlias": "Blackjack 14",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/303.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "229",
+            "gameName": "Live - Roulette 8 - Indian",
+            "gameAlias": "Live - Roulette 8 - Indian",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/229.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "1024",
+            "gameName": "Live - Andar Bahar",
+            "gameAlias": "Live - Andar Bahar",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/1024.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "106",
+            "gameName": "Live - M88 Lobby",
+            "gameAlias": "Live - M88 Lobby",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/106.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "vs25kingdomsnojp",
+            "gameName": "3 Kingdoms - Battle of Red Cliffs",
+            "gameAlias": "3 Kingdoms - Battle of Red Cliffs",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25kingdomsnojp.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25kingdomsnojp&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs7monkeys_jp",
+            "gameName": "7 Monkeys JP",
+            "gameAlias": "7 Monkeys JP",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs7monkeys_jp.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "sc7piggiesai",
+            "gameName": "7 Piggies 25,000",
+            "gameAlias": "7 Piggies 25,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/sc7piggiesai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=sc7piggiesai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "sc7piggies",
+            "gameName": "7 Piggies 5,000",
+            "gameAlias": "7 Piggies 5,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/sc7piggies.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=sc7piggies&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "bjmb",
+            "gameName": "American Blackjack",
+            "gameAlias": "American Blackjack",
+            "gameType": "Blackjack",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/bjmb.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=bjmb&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs7776aztec",
+            "gameName": "Aztec Bonanza",
+            "gameAlias": "Aztec Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs7776aztec.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs7776aztec&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "bca",
+            "gameName": "Baccarat",
+            "gameAlias": "Baccarat",
+            "gameType": "Baccarat",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/bca.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=bca&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vswaysbbb",
+            "gameName": "Big Bass Bonanza Megaways",
+            "gameAlias": "Big Bass Bonanza Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysbbb.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysbbb&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs40bigjuan",
+            "gameName": "Big Juan",
+            "gameAlias": "Big Juan",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs40bigjuan.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs40bigjuan&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10bookfallen",
+            "gameName": "Book of Fallen",
+            "gameAlias": "Book of Fallen",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10bookfallen.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10bookfallen&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10bookviking",
+            "gameName": "Book of Vikings",
+            "gameAlias": "Book of Vikings",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10bookviking.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10bookviking&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25btygold",
+            "gameName": "Bounty Gold",
+            "gameAlias": "Bounty Gold",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25btygold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25btygold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10bxmasbnza",
+            "gameName": "Christmas Big Bass Bonanza",
+            "gameAlias": "Christmas Big Bass Bonanza",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10bxmasbnza.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10bxmasbnza&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20xmascarol",
+            "gameName": "Christmas Carol Megaways",
+            "gameAlias": "Christmas Carol Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20xmascarol.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20xmascarol&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs15b",
+            "gameName": "Crazy 7s",
+            "gameAlias": "Crazy 7s",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs15b.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs15b&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scdiamond",
+            "gameName": "Diamond Strike 100,000",
+            "gameAlias": "Diamond Strike 100,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scdiamond.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scdiamond&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scdiamondai",
+            "gameName": "Diamond Strike 250,000",
+            "gameAlias": "Diamond Strike 250,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scdiamondai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scdiamondai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "bnadvanced",
+            "gameName": "Dragon Bonus Baccarat",
+            "gameAlias": "Dragon Bonus Baccarat",
+            "gameType": "baccaratnew",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/bnadvanced.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=bnadvanced&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "bndt",
+            "gameName": "Dragon Tiger",
+            "gameAlias": "Dragon Tiger",
+            "gameType": "baccaratnew",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/bndt.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=bndt&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "pp3fish",
+            "gameName": "Fishing King",
+            "gameAlias": "Fishing King",
+            "gameType": "fishinggames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/pp3fish.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=pp3fish&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vpfh3",
+            "gameName": "Flat Horse Racing",
+            "gameAlias": "Flat Horse Racing",
+            "gameType": "RGS-VSB",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vpfh3.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "vpmr9",
+            "gameName": "Force 1 Racing",
+            "gameAlias": "Force 1 Racing",
+            "gameType": "RGS-VSB",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vpmr9.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "pp4fortune",
+            "gameName": "Fortune Fishing",
+            "gameAlias": "Fortune Fishing",
+            "gameType": "fishinggames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/pp4fortune.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=pp4fortune&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25h",
+            "gameName": "Fruity Blast",
+            "gameAlias": "Fruity Blast",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25h.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25h&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scgoldrush",
+            "gameName": "Gold Rush 250,000",
+            "gameAlias": "Gold Rush 250,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scgoldrush.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scgoldrush&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scgoldrushai",
+            "gameName": "Gold Rush 500,000",
+            "gameAlias": "Gold Rush 500,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scgoldrushai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scgoldrushai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vpdr7",
+            "gameName": "Greyhound Racing",
+            "gameAlias": "Greyhound Racing",
+            "gameType": "RGS-VSB",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vpdr7.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "vs20hockey",
+            "gameName": "Hockey League",
+            "gameAlias": "Hockey League",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20hockey.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20hockey&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9hockey",
+            "gameName": "Hockey League Wild Match",
+            "gameAlias": "Hockey League Wild Match",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9hockey.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9hockey&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scsafari",
+            "gameName": "Hot Safari 50,000",
+            "gameAlias": "Hot Safari 50,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scsafari.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scsafari&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scsafariai",
+            "gameName": "Hot Safari 75,000",
+            "gameAlias": "Hot Safari 75,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scsafariai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scsafariai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vpa",
+            "gameName": "Jacks or Better",
+            "gameAlias": "Jacks or Better",
+            "gameType": "VIDEOPOKER",
+            "platform": "MOBILE",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vpa.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vpa&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25scarabqueen",
+            "gameName": "John Hunter and the Tomb of the Scarab Queen",
+            "gameAlias": "John Hunter and the Tomb of the Scarab Queen",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25scarabqueen.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25scarabqueen&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs15ktv",
+            "gameName": "KTV",
+            "gameAlias": "KTV",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs15ktv.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs15ktv&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25champlg",
+            "gameName": "LaLiga Champions",
+            "gameAlias": "LaLiga Champions",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25champlg.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25champlg&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "101",
+            "gameName": "Live - Lobby",
+            "gameAlias": "Live - Lobby",
+            "gameType": "livegames",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/101.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "vswaysmadame",
+            "gameName": "Madame Destiny Megaways",
+            "gameAlias": "Madame Destiny Megaways",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vswaysmadame.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vswaysmadame&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "bjma",
+            "gameName": "Multihand Blackjack",
+            "gameAlias": "Multihand Blackjack",
+            "gameType": "Blackjack",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/bjma.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=bjma&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scpanda",
+            "gameName": "Panda Gold 10,000",
+            "gameAlias": "Panda Gold 10,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scpanda.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scpanda&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scpandai",
+            "gameName": "Panda Gold 50,000",
+            "gameAlias": "Panda Gold 50,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scpandai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scpandai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vppso4",
+            "gameName": "Penalty Shootout",
+            "gameAlias": "Penalty Shootout",
+            "gameType": "RGS-VSB",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vppso4.png",
+            "demo": ""
+        },
+        {
+            "gameCode": "scqog",
+            "gameName": "Queen of Gold 100,000",
+            "gameAlias": "Queen of Gold 100,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scqog.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scqog&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scqogai",
+            "gameName": "Queen of Gold 100,000",
+            "gameAlias": "Queen of Gold 100,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scqogai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scqogai&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs25romeoandjuliet",
+            "gameName": "Romeo and Juliet",
+            "gameAlias": "Romeo and Juliet",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs25romeoandjuliet.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs25romeoandjuliet&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "rla",
+            "gameName": "Roulette",
+            "gameAlias": "Roulette",
+            "gameType": "Roulette",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/rla.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=rla&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20santawonder",
+            "gameName": "Santa's Wonderland",
+            "gameAlias": "Santa's Wonderland",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20santawonder.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20santawonder&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20smugcove",
+            "gameName": "Smugglers Cove",
+            "gameAlias": "Smugglers Cove",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20smugcove.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20smugcove&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20gg",
+            "gameName": "Spooky Fortune",
+            "gameAlias": "Spooky Fortune",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20gg.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20gg&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs10starpirate",
+            "gameName": "Star Pirates Code",
+            "gameAlias": "Star Pirates Code",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs10starpirate.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs10starpirate&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20cms",
+            "gameName": "Sugar Rush Summer Time",
+            "gameAlias": "Sugar Rush Summer Time",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20cms.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20cms&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20cmv",
+            "gameName": "Sugar Rush Valentine's Day",
+            "gameAlias": "Sugar Rush Valentine's Day",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20cmv.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20cmv&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20cw",
+            "gameName": "Sugar Rush Winter",
+            "gameAlias": "Sugar Rush Winter",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20cw.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20cw&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs20superx",
+            "gameName": "Super X",
+            "gameAlias": "Super X",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs20superx.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs20superx&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs9catz",
+            "gameName": "The Catfather",
+            "gameAlias": "The Catfather",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs9catz.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs9catz&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "vs30catz",
+            "gameName": "The Catfather Part II",
+            "gameAlias": "The Catfather Part II",
+            "gameType": "videoslots",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/vs30catz.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=vs30catz&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scwolfgold",
+            "gameName": "Wolf Gold 1 Million",
+            "gameAlias": "Wolf Gold 1 Million",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scwolfgold.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scwolfgold&lobbyURL=fr88.caberawit.club"
+        },
+        {
+            "gameCode": "scwolfgoldai",
+            "gameName": "Wolf Gold 1,000,000",
+            "gameAlias": "Wolf Gold 1,000,000",
+            "gameType": "scratchcard",
+            "platform": "MOBILE,DOWNLOAD,WEB",
+            "thumbnail": "https://api.prerelease-env.biz/game_pic/rec/325/scwolfgoldai.png",
+            "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=MYR&gameSymbol=scwolfgoldai&lobbyURL=fr88.caberawit.club"
+        }
+    ]
+}

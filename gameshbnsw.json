@@ -1,0 +1,1757 @@
+{"games": [
+        {
+            "gameCode": "SGLanternLuck",
+            "gameName": "Lantern Luck",
+            "gameAlias": "Lantern Luck",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLanternLuck.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLanternLuck&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGLuckyDurian",
+            "gameName": "Lucky Durian",
+            "gameAlias": "Lucky Durian",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLuckyDurian.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLuckyDurian&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGProst",
+            "gameName": "Prost!",
+            "gameAlias": "Prost!",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGProst.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGProst&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGNewYearsBash",
+            "gameName": "New Years Bash",
+            "gameAlias": "New Years Bash",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGNewYearsBash.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGNewYearsBash&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGNineTails",
+            "gameName": "Nine Tails",
+            "gameAlias": "Nine Tails",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGNineTails.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGNineTails&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFly",
+            "gameName": "Fly!",
+            "gameAlias": "Fly!",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFly.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFly&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMysticFortuneDeluxe",
+            "gameName": "Mystic Fortune Deluxe",
+            "gameAlias": "Mystic Fortune Deluxe",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMysticFortuneDeluxe.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMysticFortuneDeluxe&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCalaverasExplosivas",
+            "gameName": "Calaveras Explosivas",
+            "gameAlias": "Calaveras Explosivas",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCalaverasExplosivas.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCalaverasExplosivas&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMarvelousFurlongs",
+            "gameName": "Marvelous Furlongs",
+            "gameAlias": "Marvelous Furlongs",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMarvelousFurlongs.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMarvelousFurlongs&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCandyTower",
+            "gameName": "Candy Tower",
+            "gameAlias": "Candy Tower",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCandyTower.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCandyTower&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGReturnToTheFeature",
+            "gameName": "Return To The Feature",
+            "gameAlias": "Return To The Feature",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGReturnToTheFeature.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGReturnToTheFeature&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGOrbsOfAtlantis",
+            "gameName": "Orbs of Atlantis",
+            "gameAlias": "Orbs of Atlantis",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGOrbsOfAtlantis.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGOrbsOfAtlantis&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBeforeTimeRunsOut",
+            "gameName": "Before Time Runs Out",
+            "gameAlias": "Before Time Runs Out",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBeforeTimeRunsOut.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBeforeTimeRunsOut&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTabernaDeLosMuertosUltra",
+            "gameName": "Taberna De Los Muertos Ultra",
+            "gameAlias": "Taberna De Los Muertos Ultra",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTabernaDeLosMuertosUltra.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTabernaDeLosMuertosUltra&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTotemTowers",
+            "gameName": "Totem Towers",
+            "gameAlias": "Totem Towers",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTotemTowers.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTotemTowers&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGChristmasGiftRush",
+            "gameName": "Christmas Gift Rush",
+            "gameAlias": "Christmas Gift Rush",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGChristmasGiftRush.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGChristmasGiftRush&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGJellyfishFlow",
+            "gameName": "Jellyfish Flow",
+            "gameAlias": "Jellyfish Flow",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGJellyfishFlow.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGJellyfishFlow&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGJellyfishFlowUltra",
+            "gameName": "Jellyfish Flow Ultra",
+            "gameAlias": "Jellyfish Flow Ultra",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGJellyfishFlowUltra.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGJellyfishFlowUltra&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTabernaDeLosMuertos",
+            "gameName": "Taberna De Los Muertos",
+            "gameAlias": "Taberna De Los Muertos",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTabernaDeLosMuertos.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTabernaDeLosMuertos&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGWealthInn",
+            "gameName": "Wealth Inn",
+            "gameAlias": "Wealth Inn",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGWealthInn.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGWealthInn&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGHappyApe",
+            "gameName": "Happy Ape",
+            "gameAlias": "Happy Ape",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGHappyApe.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGHappyApe&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGKnockoutFootballRush",
+            "gameName": "Knockout Football Rush",
+            "gameAlias": "Knockout Football Rush",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGKnockoutFootballRush.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGKnockoutFootballRush&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTechnoTumble",
+            "gameName": "Techno Tumble",
+            "gameAlias": "Techno Tumble",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTechnoTumble.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTechnoTumble&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFaCaiShenDeluxe",
+            "gameName": "Fa Cai Shen Deluxe",
+            "gameAlias": "Fa Cai Shen Deluxe",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFaCaiShenDeluxe.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFaCaiShenDeluxe&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGHeySushi",
+            "gameName": "Hey Sushi",
+            "gameAlias": "Hey Sushi",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGHeySushi.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGHeySushi&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGLoonyBlox",
+            "gameName": "Loony Blox",
+            "gameAlias": "Loony Blox",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLoonyBlox.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLoonyBlox&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGLuckyFortuneCat",
+            "gameName": "Lucky Fortune Cat",
+            "gameAlias": "Lucky Fortune Cat",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLuckyFortuneCat.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLuckyFortuneCat&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGScopa",
+            "gameName": "Scopa",
+            "gameAlias": "Scopa",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGScopa.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGScopa&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGNaughtySanta",
+            "gameName": "Naughty Santa",
+            "gameAlias": "Naughty Santa",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGNaughtySanta.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGNaughtySanta&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGWizardsWantWar",
+            "gameName": "Wizards Want War!",
+            "gameAlias": "Wizards Want War!",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGWizardsWantWar.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGWizardsWantWar&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGLuckyLucky",
+            "gameName": "Lucky Lucky",
+            "gameAlias": "Lucky Lucky",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLuckyLucky.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLuckyLucky&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGColossalGems",
+            "gameName": "Colossal Gems",
+            "gameAlias": "Colossal Gems",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGColossalGems.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGColossalGems&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGHotHotHalloween",
+            "gameName": "Hot Hot Halloween",
+            "gameAlias": "Hot Hot Halloween",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGHotHotHalloween.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGHotHotHalloween&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SG5LuckyLions",
+            "gameName": "5 Lucky Lions",
+            "gameAlias": "5 Lucky Lions",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SG5LuckyLions.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SG5LuckyLions&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMountMazuma",
+            "gameName": "Mount Mazuma",
+            "gameAlias": "Mount Mazuma",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMountMazuma.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMountMazuma&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGWildTrucks",
+            "gameName": "Wild Trucks",
+            "gameAlias": "Wild Trucks",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGWildTrucks.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGWildTrucks&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPumpkinPatch",
+            "gameName": "Pumpkin Patch",
+            "gameAlias": "Pumpkin Patch",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPumpkinPatch.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPumpkinPatch&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGHappiestChristmasTree",
+            "gameName": "Happiest Christmas Tree",
+            "gameAlias": "Happiest Christmas Tree",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGHappiestChristmasTree.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGHappiestChristmasTree&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGHotHotFruit",
+            "gameName": "Hot Hot Fruit",
+            "gameAlias": "Hot Hot Fruit",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGHotHotFruit.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGHotHotFruit&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGJump",
+            "gameName": "Jump!",
+            "gameAlias": "Jump!",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGJump.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGJump&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFortuneDogs",
+            "gameName": "Fortune Dogs",
+            "gameAlias": "Fortune Dogs",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFortuneDogs.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFortuneDogs&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGKnockoutFootball",
+            "gameName": "Knockout Football",
+            "gameAlias": "Knockout Football",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGKnockoutFootball.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGKnockoutFootball&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGEgyptianDreamsDeluxe",
+            "gameName": "Egyptian Dreams Deluxe",
+            "gameAlias": "Egyptian Dreams Deluxe",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGEgyptianDreamsDeluxe.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGEgyptianDreamsDeluxe&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPresto",
+            "gameName": "Presto!",
+            "gameAlias": "Presto!",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPresto.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPresto&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGWaysOfFortune",
+            "gameName": "Ways Of Fortune",
+            "gameAlias": "Ways Of Fortune",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGWaysOfFortune.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGWaysOfFortune&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMagicOak",
+            "gameName": "Magic Oak",
+            "gameAlias": "Magic Oak",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMagicOak.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMagicOak&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSantasVillage",
+            "gameName": "Santa's Village",
+            "gameAlias": "Santa's Village",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSantasVillage.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSantasVillage&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGRollingRoger",
+            "gameName": "Rolling Roger",
+            "gameAlias": "Rolling Roger",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGRollingRoger.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGRollingRoger&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCakeValley",
+            "gameName": "Cake Valley",
+            "gameAlias": "Cake Valley",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCakeValley.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCakeValley&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGLondonHunter",
+            "gameName": "London Hunter",
+            "gameAlias": "London Hunter",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLondonHunter.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLondonHunter&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFourDivineBeasts",
+            "gameName": "Four Divine Beasts",
+            "gameAlias": "Four Divine Beasts",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFourDivineBeasts.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFourDivineBeasts&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTheKoiGate",
+            "gameName": "Koi Gate",
+            "gameAlias": "Koi Gate",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTheKoiGate.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTheKoiGate&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SG5Mariachis",
+            "gameName": "5 Mariachis",
+            "gameAlias": "5 Mariachis",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SG5Mariachis.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SG5Mariachis&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGNuwa",
+            "gameName": "Nuwa",
+            "gameAlias": "Nuwa",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGNuwa.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGNuwa&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPandaPanda",
+            "gameName": "Panda Panda",
+            "gameAlias": "Panda Panda",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPandaPanda.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPandaPanda&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGOceansCall",
+            "gameName": "Ocean's Call",
+            "gameAlias": "Ocean's Call",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGOceansCall.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGOceansCall&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGScruffyScallywags",
+            "gameName": "Scruffy Scallywags",
+            "gameAlias": "Scruffy Scallywags",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGScruffyScallywags.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGScruffyScallywags&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTheDeadEscape",
+            "gameName": "The Dead Escape",
+            "gameAlias": "The Dead Escape",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTheDeadEscape.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTheDeadEscape&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFenghuang",
+            "gameName": "Fenghuang",
+            "gameAlias": "Fenghuang",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFenghuang.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFenghuang&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBirdOfThunder",
+            "gameName": "Bird of Thunder",
+            "gameAlias": "Bird of Thunder",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBirdOfThunder.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBirdOfThunder&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFaCaiShen",
+            "gameName": "Fa Cai Shen",
+            "gameAlias": "Fa Cai Shen",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFaCaiShen.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFaCaiShen&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SG12Zodiacs",
+            "gameName": "12 Zodiacs",
+            "gameAlias": "12 Zodiacs",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SG12Zodiacs.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SG12Zodiacs&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFireRooster",
+            "gameName": "Fire Rooster",
+            "gameAlias": "Fire Rooster",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFireRooster.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFireRooster&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGGangsters",
+            "gameName": "Gangsters",
+            "gameAlias": "Gangsters",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGGangsters.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGGangsters&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGRuffledUp",
+            "gameName": "Ruffled Up",
+            "gameAlias": "Ruffled Up",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGRuffledUp.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGRuffledUp&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGGoldRush",
+            "gameName": "Gold Rush",
+            "gameAlias": "Gold Rush",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGGoldRush.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGGoldRush&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSparta",
+            "gameName": "Sparta",
+            "gameAlias": "Sparta",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSparta.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSparta&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBombsAway",
+            "gameName": "Bombs Away",
+            "gameAlias": "Bombs Away",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBombsAway.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBombsAway&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGWickedWitch",
+            "gameName": "Wicked Witch",
+            "gameAlias": "Wicked Witch",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGWickedWitch.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGWickedWitch&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGDragonsThrone",
+            "gameName": "Dragon's Throne",
+            "gameAlias": "Dragon's Throne",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGDragonsThrone.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGDragonsThrone&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCoyoteCrash",
+            "gameName": "Coyote Crash",
+            "gameAlias": "Coyote Crash",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCoyoteCrash.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCoyoteCrash&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSuperTwister",
+            "gameName": "Super Twister",
+            "gameAlias": "Super Twister",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSuperTwister.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSuperTwister&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGRomanEmpire",
+            "gameName": "Roman Empire",
+            "gameAlias": "Roman Empire",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGRomanEmpire.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGRomanEmpire&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGGlamRock",
+            "gameName": "Glam Rock",
+            "gameAlias": "Glam Rock",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGGlamRock.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGGlamRock&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGZeus2",
+            "gameName": "Zeus 2",
+            "gameAlias": "Zeus 2",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGZeus2.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGZeus2&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBuggyBonus",
+            "gameName": "Buggy Bonus",
+            "gameAlias": "Buggy Bonus",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBuggyBonus.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBuggyBonus&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTreasureTomb",
+            "gameName": "Treasure Tomb",
+            "gameAlias": "Treasure Tomb",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTreasureTomb.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTreasureTomb&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGArcaneElements",
+            "gameName": "Arcane Elements",
+            "gameAlias": "Arcane Elements",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGArcaneElements.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGArcaneElements&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGJugglenaut",
+            "gameName": "Jugglenaut",
+            "gameAlias": "Jugglenaut",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGJugglenaut.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGJugglenaut&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGGalacticCash",
+            "gameName": "Galactic Cash",
+            "gameAlias": "Galactic Cash",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGGalacticCash.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGGalacticCash&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTreasureDiver",
+            "gameName": "Treasure Diver",
+            "gameAlias": "Treasure Diver",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTreasureDiver.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTreasureDiver&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGKanesInferno",
+            "gameName": "Kane's Inferno",
+            "gameAlias": "Kane's Inferno",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGKanesInferno.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGKanesInferno&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCarnivalCash",
+            "gameName": "Carnival Cash",
+            "gameAlias": "Carnival Cash",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCarnivalCash.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCarnivalCash&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGShaolinFortunes243",
+            "gameName": "Shaolin Fortunes",
+            "gameAlias": "Shaolin Fortunes",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGShaolinFortunes243.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGShaolinFortunes243&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTheDragonCastle",
+            "gameName": "Dragon Castle",
+            "gameAlias": "Dragon Castle",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTheDragonCastle.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTheDragonCastle&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGKingTutsTomb",
+            "gameName": "King Tut's Tomb",
+            "gameAlias": "King Tut's Tomb",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGKingTutsTomb.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGKingTutsTomb&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMonsterMashCash",
+            "gameName": "Monster Mash Cash",
+            "gameAlias": "Monster Mash Cash",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMonsterMashCash.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMonsterMashCash&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGShaolinFortunes100",
+            "gameName": "Shaolin Fortunes 100",
+            "gameAlias": "Shaolin Fortunes 100",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGShaolinFortunes100.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGShaolinFortunes100&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGVikingsPlunder",
+            "gameName": "Viking's Plunder",
+            "gameAlias": "Viking's Plunder",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGVikingsPlunder.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGVikingsPlunder&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGDoubleODollars",
+            "gameName": "Double O Dollars",
+            "gameAlias": "Double O Dollars",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGDoubleODollars.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGDoubleODollars&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGLittleGreenMoney",
+            "gameName": "Little Green Money",
+            "gameAlias": "Little Green Money",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGLittleGreenMoney.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGLittleGreenMoney&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGWeirdScience",
+            "gameName": "Weird Science",
+            "gameAlias": "Weird Science",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGWeirdScience.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGWeirdScience&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBlackbeardsBounty",
+            "gameName": "Blackbeard's Bounty",
+            "gameAlias": "Blackbeard's Bounty",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBlackbeardsBounty.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBlackbeardsBounty&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGDrFeelgood",
+            "gameName": "Dr Feelgood",
+            "gameAlias": "Dr Feelgood",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGDrFeelgood.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGDrFeelgood&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSOS",
+            "gameName": "S.O.S!",
+            "gameAlias": "S.O.S!",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSOS.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSOS&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPoolShark",
+            "gameName": "Pool Shark",
+            "gameAlias": "Pool Shark",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPoolShark.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPoolShark&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSpaceFortune",
+            "gameName": "Space Fortune",
+            "gameAlias": "Space Fortune",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSpaceFortune.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSpaceFortune&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPamperMe",
+            "gameName": "Pamper Me",
+            "gameAlias": "Pamper Me",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPamperMe.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPamperMe&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGZeus",
+            "gameName": "Zeus",
+            "gameAlias": "Zeus",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGZeus.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGZeus&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBarnstormerBucks",
+            "gameName": "Barnstormer Bucks",
+            "gameAlias": "Barnstormer Bucks",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBarnstormerBucks.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBarnstormerBucks&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSuperStrike",
+            "gameName": "Super Strike",
+            "gameAlias": "Super Strike",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSuperStrike.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSuperStrike&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGJungleRumble",
+            "gameName": "Jungle Rumble",
+            "gameAlias": "Jungle Rumble",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGJungleRumble.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGJungleRumble&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGEgyptianDreams",
+            "gameName": "Egyptian Dreams",
+            "gameAlias": "Egyptian Dreams",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGEgyptianDreams.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGEgyptianDreams&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMummyMoney",
+            "gameName": "Mummy Money",
+            "gameAlias": "Mummy Money",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMummyMoney.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMummyMoney&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGBikiniIsland",
+            "gameName": "Bikini Island",
+            "gameAlias": "Bikini Island",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGBikiniIsland.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGBikiniIsland&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMysticFortune",
+            "gameName": "Mystic Fortune",
+            "gameAlias": "Mystic Fortune",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMysticFortune.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMysticFortune&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGArcticWonders",
+            "gameName": "Arctic Wonders",
+            "gameAlias": "Arctic Wonders",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGArcticWonders.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGArcticWonders&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTowerOfPizza",
+            "gameName": "Tower Of Pizza",
+            "gameAlias": "Tower Of Pizza",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTowerOfPizza.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTowerOfPizza&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGAllForOne",
+            "gameName": "All For One",
+            "gameAlias": "All For One",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGAllForOne.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGAllForOne&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFlyingHigh",
+            "gameName": "Flying High",
+            "gameAlias": "Flying High",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFlyingHigh.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFlyingHigh&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGMrBling",
+            "gameName": "Mr Bling",
+            "gameAlias": "Mr Bling",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGMrBling.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGMrBling&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGQueenOfQueens1024",
+            "gameName": "Queen of Queens II",
+            "gameAlias": "Queen of Queens II",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGQueenOfQueens1024.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGQueenOfQueens1024&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGDragonsRealm",
+            "gameName": "Dragon's Realm",
+            "gameAlias": "Dragon's Realm",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGDragonsRealm.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGDragonsRealm&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSirBlingalot",
+            "gameName": "Sir Blingalot",
+            "gameAlias": "Sir Blingalot",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSirBlingalot.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSirBlingalot&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCashReef",
+            "gameName": "Cash Reef",
+            "gameAlias": "Cash Reef",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCashReef.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCashReef&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGQueenOfQueens243",
+            "gameName": "Queen of Queens",
+            "gameAlias": "Queen of Queens",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGQueenOfQueens243.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGQueenOfQueens243&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGGoldenUnicorn",
+            "gameName": "Golden Unicorn",
+            "gameAlias": "Golden Unicorn",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGGoldenUnicorn.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGGoldenUnicorn&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPiratesPlunder",
+            "gameName": "Pirate's Plunder",
+            "gameAlias": "Pirate's Plunder",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPiratesPlunder.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPiratesPlunder&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGPuckerUpPrince",
+            "gameName": "Pucker Up Prince",
+            "gameAlias": "Pucker Up Prince",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGPuckerUpPrince.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGPuckerUpPrince&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGRideEmCowboy",
+            "gameName": "Ride 'em Cowboy",
+            "gameAlias": "Ride 'em Cowboy",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGRideEmCowboy.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGRideEmCowboy&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGGrapeEscape",
+            "gameName": "The Grape Escape",
+            "gameAlias": "The Grape Escape",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGGrapeEscape.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGGrapeEscape&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGAzlandsGold",
+            "gameName": "Aztlan's Gold",
+            "gameAlias": "Aztlan's Gold",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGAzlandsGold.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGAzlandsGold&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGShogunsLand",
+            "gameName": "Shogun's Land",
+            "gameAlias": "Shogun's Land",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGShogunsLand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGShogunsLand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGFrontierFortunes",
+            "gameName": "Frontier Fortunes",
+            "gameAlias": "Frontier Fortunes",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGFrontierFortunes.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGFrontierFortunes&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGIndianCashCatcher",
+            "gameName": "Indian Cash Catcher",
+            "gameAlias": "Indian Cash Catcher",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGIndianCashCatcher.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGIndianCashCatcher&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGSkysTheLimit",
+            "gameName": "Sky's the Limit",
+            "gameAlias": "Sky's the Limit",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGSkysTheLimit.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGSkysTheLimit&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGTheBigDeal",
+            "gameName": "The Big Deal",
+            "gameAlias": "The Big Deal",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGTheBigDeal.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGTheBigDeal&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGDiscoFunk",
+            "gameName": "Disco Funk",
+            "gameAlias": "Disco Funk",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGDiscoFunk.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGDiscoFunk&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGHauntedHouse",
+            "gameName": "Haunted House",
+            "gameAlias": "Haunted House",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGHauntedHouse.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGHauntedHouse&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGRodeoDrive",
+            "gameName": "Rodeo Drive",
+            "gameAlias": "Rodeo Drive",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGRodeoDrive.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGRodeoDrive&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SGCashosaurus",
+            "gameName": "Cashosaurus",
+            "gameAlias": "Cashosaurus",
+            "gameType": "Video Slots",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SGCashosaurus.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SGCashosaurus&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TGBlackjackAmerican",
+            "gameName": "American Blackjack",
+            "gameAlias": "American Blackjack",
+            "gameType": "Blackjack",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TGBlackjackAmerican.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TGBlackjackAmerican&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TGDragonTiger",
+            "gameName": "Dragon Tiger",
+            "gameAlias": "Dragon Tiger",
+            "gameType": "Dragon Tiger",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TGDragonTiger.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TGDragonTiger&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BlackJack3HDoubleExposure",
+            "gameName": "Double Exposure 3 Hand",
+            "gameAlias": "Double Exposure 3 Hand",
+            "gameType": "Blackjack",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BlackJack3HDoubleExposure.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BlackJack3HDoubleExposure&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "Baccarat3HZC",
+            "gameName": "Baccarat Zero Commission",
+            "gameAlias": "Baccarat Zero Commission",
+            "gameType": "Baccarat",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/Baccarat3HZC.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=Baccarat3HZC&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BlackJack3H",
+            "gameName": "Blackjack 3 Hand",
+            "gameAlias": "Blackjack 3 Hand",
+            "gameType": "Blackjack",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BlackJack3H.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BlackJack3H&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "SicBo",
+            "gameName": "Sic Bo",
+            "gameAlias": "Sic Bo",
+            "gameType": "Sic Bo",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/SicBo.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=SicBo&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "GambleBeatDealer",
+            "gameName": "Poker Gamble - Beat the Dealer",
+            "gameAlias": "Poker Gamble - Beat the Dealer",
+            "gameType": "Gamble",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/GambleBeatDealer.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=GambleBeatDealer&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TGWar",
+            "gameName": "War",
+            "gameAlias": "War",
+            "gameType": "War",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TGWar.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TGWar&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TGThreeCardPokerDeluxe",
+            "gameName": "Three Card Poker Deluxe",
+            "gameAlias": "Three Card Poker Deluxe",
+            "gameType": "Casino Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TGThreeCardPokerDeluxe.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TGThreeCardPokerDeluxe&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "CaribbeanStud",
+            "gameName": "Caribbean Stud",
+            "gameAlias": "Caribbean Stud",
+            "gameType": "Casino Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/CaribbeanStud.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=CaribbeanStud&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TGThreeCardPoker",
+            "gameName": "Three Card Poker",
+            "gameAlias": "Three Card Poker",
+            "gameType": "Casino Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TGThreeCardPoker.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TGThreeCardPoker&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "EURoulette",
+            "gameName": "Roulette",
+            "gameAlias": "Roulette",
+            "gameType": "Roulette",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/EURoulette.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=EURoulette&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AmericanBaccarat",
+            "gameName": "Baccarat",
+            "gameAlias": "Baccarat",
+            "gameType": "Baccarat",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AmericanBaccarat.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AmericanBaccarat&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "CaribbeanHoldem",
+            "gameName": "Caribbean Holdem",
+            "gameAlias": "Caribbean Holdem",
+            "gameType": "Casino Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/CaribbeanHoldem.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=CaribbeanHoldem&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TensorBetter50Hand",
+            "gameName": "Tens or Better 50 Hand",
+            "gameAlias": "Tens or Better 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TensorBetter50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TensorBetter50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TensorBetter100Hand",
+            "gameName": "Tens or Better 100 Hand",
+            "gameAlias": "Tens or Better 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TensorBetter100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TensorBetter100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TensorBetter5Hand",
+            "gameName": "Tens or Better 5 Hand",
+            "gameAlias": "Tens or Better 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TensorBetter5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TensorBetter5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TensorBetter10Hand",
+            "gameName": "Tens or Better 10 Hand",
+            "gameAlias": "Tens or Better 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TensorBetter10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TensorBetter10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JokerPoker50Hand",
+            "gameName": "Joker Poker 50 Hand",
+            "gameAlias": "Joker Poker 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JokerPoker50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JokerPoker50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JokerPoker100Hand",
+            "gameName": "Joker Poker 100 Hand",
+            "gameAlias": "Joker Poker 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JokerPoker100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JokerPoker100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "TensorBetter1Hand",
+            "gameName": "Tens or Better 1 Hand",
+            "gameAlias": "Tens or Better 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/TensorBetter1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=TensorBetter1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JokerPoker5Hand",
+            "gameName": "Joker Poker 5 Hand",
+            "gameAlias": "Joker Poker 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JokerPoker5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JokerPoker5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JokerPoker10Hand",
+            "gameName": "Joker Poker 10 Hand",
+            "gameAlias": "Joker Poker 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JokerPoker10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JokerPoker10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleDoubleBonusPoker50Hand",
+            "gameName": "Double Double Bonus Poker 50 Hand",
+            "gameAlias": "Double Double Bonus Poker 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleDoubleBonusPoker50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleDoubleBonusPoker50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleDoubleBonusPoker100Hand",
+            "gameName": "Double Double Bonus Poker 100 Hand",
+            "gameAlias": "Double Double Bonus Poker 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleDoubleBonusPoker100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleDoubleBonusPoker100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JokerPoker1Hand",
+            "gameName": "Joker Poker 1 Hand",
+            "gameAlias": "Joker Poker 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JokerPoker1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JokerPoker1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleDoubleBonusPoker1Hand",
+            "gameName": "Double Double Bonus Poker 1 Hand",
+            "gameAlias": "Double Double Bonus Poker 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleDoubleBonusPoker1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleDoubleBonusPoker1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleDoubleBonusPoker5Hand",
+            "gameName": "Double Double Bonus Poker 5 Hand",
+            "gameAlias": "Double Double Bonus Poker 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleDoubleBonusPoker5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleDoubleBonusPoker5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleDoubleBonusPoker10Hand",
+            "gameName": "Double Double Bonus Poker 10 Hand",
+            "gameAlias": "Double Double Bonus Poker 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleDoubleBonusPoker10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleDoubleBonusPoker10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleBonusPoker50Hand",
+            "gameName": "Double Bonus Poker 50 Hand",
+            "gameAlias": "Double Bonus Poker 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleBonusPoker50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleBonusPoker50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleBonusPoker100Hand",
+            "gameName": "Double Bonus Poker 100 Hand",
+            "gameAlias": "Double Bonus Poker 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleBonusPoker100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleBonusPoker100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleBonusPoker5Hand",
+            "gameName": "Double Bonus Poker 5 Hand",
+            "gameAlias": "Double Bonus Poker 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleBonusPoker5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleBonusPoker5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleBonusPoker10Hand",
+            "gameName": "Double Bonus Poker 10 Hand",
+            "gameAlias": "Double Bonus Poker 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleBonusPoker10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleBonusPoker10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusPoker50Hand",
+            "gameName": "Bonus Poker 50 Hand",
+            "gameAlias": "Bonus Poker 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusPoker50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusPoker50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusPoker100Hand",
+            "gameName": "Bonus Poker 100 Hand",
+            "gameAlias": "Bonus Poker 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusPoker100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusPoker100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DoubleBonusPoker1Hand",
+            "gameName": "Double Bonus Poker 1 Hand",
+            "gameAlias": "Double Bonus Poker 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DoubleBonusPoker1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DoubleBonusPoker1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusPoker5Hand",
+            "gameName": "Bonus Poker 5 Hand",
+            "gameAlias": "Bonus Poker 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusPoker5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusPoker5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusPoker10Hand",
+            "gameName": "Bonus Poker 10 Hand",
+            "gameAlias": "Bonus Poker 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusPoker10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusPoker10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusDuecesWild50Hand",
+            "gameName": "Bonus Deuces Wild 50 Hand",
+            "gameAlias": "Bonus Deuces Wild 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusDuecesWild50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusDuecesWild50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusDuecesWild100Hand",
+            "gameName": "Bonus Deuces Wild 100 Hand",
+            "gameAlias": "Bonus Deuces Wild 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusDuecesWild100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusDuecesWild100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusPoker1Hand",
+            "gameName": "Bonus Poker 1 Hand",
+            "gameAlias": "Bonus Poker 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusPoker1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusPoker1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusDuecesWild1Hand",
+            "gameName": "Bonus Deuces Wild 1 Hand",
+            "gameAlias": "Bonus Deuces Wild 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusDuecesWild1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusDuecesWild1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusDuecesWild5Hand",
+            "gameName": "Bonus Deuces Wild 5 Hand",
+            "gameAlias": "Bonus Deuces Wild 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusDuecesWild5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusDuecesWild5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "BonusDuecesWild10Hand",
+            "gameName": "Bonus Deuces Wild 10 Hand",
+            "gameAlias": "Bonus Deuces Wild 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/BonusDuecesWild10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=BonusDuecesWild10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AllAmericanPoker10Hand",
+            "gameName": "All American Poker 10 Hand",
+            "gameAlias": "All American Poker 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AllAmericanPoker10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AllAmericanPoker10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AllAmericanPoker50Hand",
+            "gameName": "All American Poker 50 Hand",
+            "gameAlias": "All American Poker 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AllAmericanPoker50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AllAmericanPoker50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AllAmericanPoker100Hand",
+            "gameName": "All American Poker 100 Hand",
+            "gameAlias": "All American Poker 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AllAmericanPoker100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AllAmericanPoker100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AllAmericanPoker1Hand",
+            "gameName": "All American Poker 1 Hand",
+            "gameAlias": "All American Poker 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AllAmericanPoker1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AllAmericanPoker1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AllAmericanPoker5Hand",
+            "gameName": "All American Poker 5 Hand",
+            "gameAlias": "All American Poker 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AllAmericanPoker5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AllAmericanPoker5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AcesandEights5Hand",
+            "gameName": "Aces and Eights 5 Hand",
+            "gameAlias": "Aces and Eights 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AcesandEights5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AcesandEights5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AcesandEights10Hand",
+            "gameName": "Aces and Eights 10 Hand",
+            "gameAlias": "Aces and Eights 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AcesandEights10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AcesandEights10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AcesandEights50Hand",
+            "gameName": "Aces and Eights 50 Hand",
+            "gameAlias": "Aces and Eights 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AcesandEights50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AcesandEights50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AcesandEights100Hand",
+            "gameName": "Aces and Eights 100 Hand",
+            "gameAlias": "Aces and Eights 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AcesandEights100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AcesandEights100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DuecesWild100Hand",
+            "gameName": "Deuces Wild 100 Hand",
+            "gameAlias": "Deuces Wild 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DuecesWild100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DuecesWild100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "AcesandEights1Hand",
+            "gameName": "Aces and Eights 1 Hand",
+            "gameAlias": "Aces and Eights 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/AcesandEights1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=AcesandEights1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DuecesWild5Hand",
+            "gameName": "Deuces Wild 5 Hand",
+            "gameAlias": "Deuces Wild 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DuecesWild5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DuecesWild5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DuecesWild10Hand",
+            "gameName": "Deuces Wild 10 Hand",
+            "gameAlias": "Deuces Wild 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DuecesWild10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DuecesWild10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DuecesWild50Hand",
+            "gameName": "Deuces Wild 50 Hand",
+            "gameAlias": "Deuces Wild 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DuecesWild50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DuecesWild50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JacksorBetter100Hand",
+            "gameName": "Jacks or Better 100 Hand",
+            "gameAlias": "Jacks or Better 100 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JacksorBetter100Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JacksorBetter100Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "DuecesWild1Hand",
+            "gameName": "Deuces Wild 1 Hand",
+            "gameAlias": "Deuces Wild 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/DuecesWild1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=DuecesWild1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JacksorBetter50Hand",
+            "gameName": "Jacks or Better 50 Hand",
+            "gameAlias": "Jacks or Better 50 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JacksorBetter50Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JacksorBetter50Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JacksorBetter5Hand",
+            "gameName": "Jacks or Better 5 Hand",
+            "gameAlias": "Jacks or Better 5 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JacksorBetter5Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JacksorBetter5Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JacksorBetter10Hand",
+            "gameName": "Jacks or Better 10 Hand",
+            "gameAlias": "Jacks or Better 10 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JacksorBetter10Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JacksorBetter10Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        },
+        {
+            "gameCode": "JacksorBetter1Hand",
+            "gameName": "Jacks or Better 1 Hand",
+            "gameAlias": "Jacks or Better 1 Hand",
+            "gameType": "Video Poker",
+            "platform": "WEB",
+            "thumbnail": "http://app-test.insvr.com/img/oval/120/JacksorBetter1Hand.png",
+            "demo": "http://app-test.insvr.com/go.ashx?brandid=70c421f9-e2a3-eb11-b566-0050f2a4af46&keyname=JacksorBetter1Hand&mode=fun&lobbyurl=fr88.caberawit.club&locale=en"
+        }
+    ]}
